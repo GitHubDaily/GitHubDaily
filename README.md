@@ -349,8 +349,8 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 
 ## 声明
-[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)  
-本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)进行许可。
+[![](https://licensebuttons.net/l/by-nc-nd/2.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)  
+本作品采用[知识共享署名-非商业性使用-禁止演绎 2.0 通用许可协议](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)进行许可。
 
 
 
