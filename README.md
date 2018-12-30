@@ -11,7 +11,6 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
-- 掘金: [@GitHubDaily](https://juejin.im/user/57888d316be3ff006cc3533d)
 
 ## 目录
 
@@ -35,7 +34,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### Android
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [Matrix](https://github.com/Tencent/matrix) | 由腾讯开源的的 APM（Application Performance Manage）系统 | ![GitHub stars](https://img.shields.io/github/stars/Tencent/matrix.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H8Yn764h2?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151870800)
 [MMKV](https://github.com/Tencent/MMKV) | 微信开源的一个基于 mmap 内存映射的 key-value 组件，底层序列化/反序列化使用 protobuf 实现，性能高，稳定性强 | ![GitHub stars](https://img.shields.io/github/stars/Tencent/MMKV.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GBoNeaAij?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1538656849300)
@@ -71,7 +70,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### iOS
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [Graver](https://github.com/Meituan-Dianping/Graver) | 一款高效的 UI 渲染框架，它以更低的资源消耗来构建十分流畅的 UI 界面 | ![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Graver.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H97NBlqbm?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151778877)
 [FFPopup](https://github.com/JonyFang/FFPopup) | 一个轻量的自定义弹窗组件，提供多种弹窗样式 & 展示动画 | ![GitHub stars](https://img.shields.io/github/stars/JonyFang/FFPopup.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H71HIvW2r?from=page_1005055722964389_profile&wvr=6&mod=weibotime)	
@@ -98,7 +97,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### Python
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) | 一款使用 Scrapy、Flask、Echarts、Elasticsearch 等框架实现的微信公众号文章爬虫，自带分析报告和全文检索功能，几百万的文档都能瞬间搜索 | ![GitHub stars](https://img.shields.io/github/stars/wonderfulsuccess/weixin_crawler.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H6GXEB1Iz?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152651519)
 [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) | 500 Lines or Less》Python 书中文翻译版 | ![GitHub stars](https://img.shields.io/github/stars/HT524/500LineorLess_CN.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H65fG8rrj?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152894174)
@@ -120,7 +119,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### Java
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [miaosha](https://github.com/qiurunze123/miaosha) | 一个教你如何使用 Java 语言来设计高并发大流量秒杀架构的项目 | ![GitHub stars](https://img.shields.io/github/stars/qiurunze123/miaosha.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H7BwDtzpv?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152150291)
 [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 一份涵盖大部分Java程序员所需要掌握的核心知识 | ![GitHub stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GFctDCfPz?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546099361728)
@@ -137,7 +136,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### JavaScript
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) | 一套基于 JavaScript 构建的弹幕控制器，提供从基本骨架到高级弹幕的支持 | ![GitHub stars](https://img.shields.io/github/stars/jabbany/CommentCoreLibrary.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H51gcvdkQ?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546144787874)
 [33-js-concepts](https://github.com/leonardomso/33-js-concepts)  | 每个 JavaScript 工程师都应懂的 33 个概念，帮助开发者掌握 JavaScript 概念 | ![GitHub stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GF339mHCa?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546099478165)
@@ -155,7 +154,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 前端
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [zaobao](https://github.com/wubaiqing/zaobao) | 一个以前端技术体系为主要分享的每日时报，分享内容以文章、工具、新闻、视频为主 | ![GitHub stars](https://img.shields.io/github/stars/wubaiqing/zaobao.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H9A56vDOH?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151247758)
 [css-animation-101](https://github.com/cssanimation/css-animation-101) | 一本开源的 CSS 动画书籍，教你如何在 Web 项目中用好 CSS 动画 | ![GitHub stars](https://img.shields.io/github/stars/cssanimation/css-animation-101.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H5k7bfBMl?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546153302467)
@@ -177,7 +176,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 工具
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [Cloudreve](https://github.com/HFO4/Cloudreve) | 一个可以让你低成本快速搭建起公私兼备的网盘工具，并且支持快速对接七牛、又拍云、阿里云等多家云存储 | ![GitHub stars](https://img.shields.io/github/stars/HFO4/Cloudreve.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H9he6tIpr?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151686501)
 [WebTorrent Desktop](https://github.com/webtorrent/webtorrent) | 一款可以直接在线播放视频的 BT 下载客户端，可通过种子文件与磁力链接下载资源，支持 Windows/macOS/Linux 平台 | ![GitHub stars](https://img.shields.io/github/stars/webtorrent/webtorrent.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H8mF7FPzp?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151921220)
@@ -211,7 +210,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 资料整合
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [awesome-php-security](https://github.com/guardrailsio/awesome-php-security) | 一份收集整理了 PHP 安全相关资源的列表 | ![GitHub stars](https://img.shields.io/github/stars/guardrailsio/awesome-php-security.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H83O8jJbn?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151980738)
 [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 一份收集了适用于 SysOps，DevOps，Pentesters 和安全研究人员的手册、博客、黑客、命令、CLI / Web工具等学习资料 | ![GitHub stars](https://img.shields.io/github/stars/trimstray/the-book-of-secret-knowledge.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H7UnD7v7Y?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152064414)
@@ -245,7 +244,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### Go
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) | Go 语言圣经 《The Go Programming Language》 中文版本 | ![GitHub stars](https://img.shields.io/github/stars/gopl-zh/gopl-zh.github.com.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/Gz7nNerTQ?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1538658270672)
 [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) | 为互联网 IT 人打造的中文版 awesome-go ，共精心挑选了 100多 个开源项目 | ![GitHub stars](https://img.shields.io/github/stars/hackstoic/golang-open-source-projects.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GvVpmjhGD?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
@@ -254,7 +253,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 机器学习
 
-库名 | 简述 | Stars  | 讨论
+库名 | 简述 | Stars  | 源
 ---- | ----- | --- | -----
 [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) | 一个有趣的对对联工具，用深度学习对对联 | ![GitHub stars](https://img.shields.io/github/stars/wb14123/seq2seq-couplet.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H9uVrfUxX?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546151518097)
 [TensorSpace](https://github.com/tensorspace-team/tensorspace) | 一套用于构建神经网络 3D 可视化应用的框架 | ![GitHub stars](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H7KX8hVhh?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152120491)
@@ -268,7 +267,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### Vue / Rect
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) | 收集了不少有用的 React Native UI 组件，每周一更 | ![GitHub stars](https://img.shields.io/github/stars/madhavanmalolan/awesome-reactnative-ui.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GyeodFHYk?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1538658679650)
 [music](https://github.com/sunzongzheng/music) | 一个跨平台音乐播放器，可搜网易云音乐、QQ音乐、虾米音乐，并且支持QQ登录，云歌单等 | ![GitHub stars](https://img.shields.io/github/stars/sunzongzheng/music.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GtDZUp3kr?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
@@ -277,7 +276,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 区块链
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [awesome-blockchain-articles](https://github.com/wecodexyz/awesome-blockchain-articles) | 一份收集整理了一些关于区块链科普以及学习的文章集合 | ![GitHub stars](https://img.shields.io/github/stars/wecodexyz/awesome-blockchain-articles.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/G9q9ShgNh?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536407085865)
 [awesome-blockchain](https://github.com/chaozh/awesome-blockchain-cn) | 一份收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | ![GitHub stars](https://img.shields.io/github/stars/chaozh/awesome-blockchain-cn.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/G5jCsbiwT?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536408681972)
@@ -286,7 +285,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 面试
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge) | 史上最全的 BAT 大厂 Android 面试题汇集，以及常用的 Android 开发的一些技能点，冷门知识点汇总，开发中遇到的坑汇总等干货 | ![GitHub stars](https://img.shields.io/github/stars/AweiLoveAndroid/CommonDevKnowledge.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GDZ3G3z7S?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546099870447)
 [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) | 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 | ![GitHub stars](https://img.shields.io/github/stars/imhuay/Algorithm_Interview_Notes-Chinese.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GBydJnqZ0?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
@@ -298,14 +297,14 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 小程序
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [huahui](https://github.com/getive/huahui) | 『中国程序员常读错的英文单词的 App』- 微信小程序版本 | ![GitHub stars](https://img.shields.io/github/stars/getive/huahui.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/Gg73pf7U5?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [awesome-wepy](https://github.com/aben1188/awesome-wepy)  | 一份整理了微信小程序组件化开发框架 wepy 开发资源汇总 | ![GitHub stars](https://img.shields.io/github/stars/aben1188/awesome-wepy.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/G8quhEtO7?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536407484467)
 [WePY](https://github.com/Tencent/wepy) | 腾讯开源的一款让小程序支持组件化开发的框架，通过预编译的手段让开发者可以选择自己喜欢的开发风格去开发小程序 | ![GitHub stars](https://img.shields.io/github/stars/Tencent/wepy.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/G8maojVkQ?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 
 ### 算法
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 一个交互式的在线可视化学习算法平台，能在可视化区域看到每行代码执行对应的操作，并且有对应的动画呈现，使你更加容易理解算法 | ![GitHub stars](https://img.shields.io/github/stars/algorithm-visualizer/algorithm-visualizer.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H6ZOECCyI?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546152461597)
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 一个用动画的形式呈现解 LeetCode 题目的思路项目 | ![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H6xxaoXu1?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
@@ -313,7 +312,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 其他
 
-库名 | 简述 | Stars | 讨论
+库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
 [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) | 一个生成nginx配置文件的网站 ​​​​ | ![GitHub stars](https://img.shields.io/github/stars/valentinxxx/nginxconfig.io.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H9rSv5J2N?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) | 一份开源项目挣钱实用手册，教你如何在参与开源项目时挣钱 | ![GitHub stars](https://img.shields.io/github/stars/wizicer/FinancialSupportForOpenSource.svg) | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/H1dzMooAH?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1546150837275)
@@ -339,7 +338,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 ### 非GitHub实用工具 / 干货
 
-名称 | 简述 |  讨论
+名称 | 简述 |  源
 ---- | ----- | ----
 [Cookiepedia](https://cookiepedia.co.uk/website/www.jd.com) | 一个分析 Cookie 的在线工具，可视化显示某个网站留下的所有 Cookie | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GxMg5bGZW?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [WebGradients](https://webgradients.com/) | 提供了大量的渐变配色方案，支持在线预览，可免费下载png/skech/psd格式 | [![](https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/sina_logo.png)](https://weibo.com/5722964389/GhMNF6zsz?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
