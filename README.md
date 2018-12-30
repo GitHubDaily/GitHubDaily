@@ -1,11 +1,11 @@
 
 该仓库是一份对微博号 GitHubDaily 在 2018 年所发的微博进行分类整理，方便粉丝们查找以往发过的内容。
 
-### 宗旨
+## 宗旨
 
 GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
 
-### 目录
+## 目录
 
 - [Android](#android)
 - [iOS](#ios)
@@ -43,7 +43,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) | 一个基于 Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现仿开眼 App 项目，UI 简约 | ![GitHub stars](https://img.shields.io/github/stars/git-xuhao/KotlinMvp.svg) | [微博](https://weibo.com/5722964389/GtuzqbFtM?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [LockDemo](https://github.com/wzx54321/LockDemo) | 一个封装了指纹识别、图形密码手势密码识别、aliOCR识别 个人使用，可根据需求添加 | ![GitHub stars](https://img.shields.io/github/stars/wzx54321/LockDemo.svg) | [微博](https://weibo.com/5722964389/GsqzWbqWj?from=page_1005055722964389_profile&wvr=6&mod=weibotime#_rnd1536071968719)
 [Chinese-number-gestures-recognition](https://github.com/tz28/Chinese-number-gestures-recognition) | 一个基于卷积神经网络的数字手势识别安卓 APP，主要功能为：通过手机摄像头识别做出的数字手势，能够识别数字0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 对应的手势 | ![GitHub stars](https://img.shields.io/github/stars/tz28/Chinese-number-gestures-recognition.svg) | [微博](https://weibo.com/5722964389/GrORWsEMD?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
-[MTransition](https://github.com/HJ-Money/MTransition) | 一个 Android 上的页面切换动画库，它可以让一些复杂的、自定义的页面切换动画更加简单地实现出来，节省开发成本 | ![GitHub stars](https://img.shields.io/github/stars/HJ-Money/MTransition.svg) | ![Forks](https://img.shields.io/github/forks/HJ-Money/MTransition.svg) | [微博](https://weibo.com/5722964389/Grd9XFEt1?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536073370649)
+[MTransition](https://github.com/HJ-Money/MTransition) | 一个 Android 上的页面切换动画库，它可以让一些复杂的、自定义的页面切换动画更加简单地实现出来，节省开发成本 | ![GitHub stars](https://img.shields.io/github/stars/HJ-Money/MTransition.svg) | [微博](https://weibo.com/5722964389/Grd9XFEt1?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536073370649)
 [Pandora](https://github.com/whataa/pandora) | 一款无需ROOT、可以直接在 应用内 查看和修改包括网络、数据库、UI等的Android工具箱，适合开发和测试阶段的各种问题的快速定位 | ![GitHub stars](https://img.shields.io/github/stars/whataa/pandora.svg) | [微博](https://weibo.com/5722964389/Gott1gwRt?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536074744432)
 [MoneyKeeper](https://github.com/Bakumon/MoneyKeeper) | 一款纯粹、轻量、高颜值的 Android 记账应用 | ![GitHub stars](https://img.shields.io/github/stars/Bakumon/MoneyKeeper.svg) | [微博](https://weibo.com/5722964389/GlqV6p8WF?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536076012573)
 [SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) | 一个可以轻松定制炫酷动画的 Android 评分控件 | ![GitHub stars](https://img.shields.io/github/stars/ome450901/SimpleRatingBar.svg) | [微博](https://weibo.com/5722964389/Gj9vEfvED?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536161207838)
