@@ -9,9 +9,9 @@
 
 GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
 
-- [微博 @GitHubDaily](https://weibo.com/GitHubDaily)
-- [知乎 @GitHubDaily](https://www.zhihu.com/people/githubdaily)
-- [掘金 @GitHubDaily](https://juejin.im/user/57888d316be3ff006cc3533d)
+- 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
+- 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
+- 掘金: [@GitHubDaily](https://juejin.im/user/57888d316be3ff006cc3533d)
 
 ## 目录
 
