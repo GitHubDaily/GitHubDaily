@@ -1,4 +1,8 @@
 
+<p align="center">
+   <img src="https://github.com/GitHubDaily/GitHubDaily/blob/master/assets/weixin.png">
+</p>
+
 该仓库是一份对微博号 GitHubDaily 在 2018 年所发的微博进行分类整理，方便粉丝们查找以往发过的内容。
 
 ## 宗旨
