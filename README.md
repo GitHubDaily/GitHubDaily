@@ -299,6 +299,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 库名 | 简述 | Stars | 源
 ---- | ----- | --- | -----
+[在线借书平台](https://github.com/imageslr/weapp-library) | 连接读者与图书馆的借书平台、读者的图书资料库与书单系统 | ![GitHub stars](https://img.shields.io/github/stars/imageslr/weapp-library.svg) | 
 [huahui](https://github.com/getive/huahui) | 『中国程序员常读错的英文单词的 App』- 微信小程序版本 | ![GitHub stars](https://img.shields.io/github/stars/getive/huahui.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Gg73pf7U5?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [awesome-wepy](https://github.com/aben1188/awesome-wepy)  | 一份整理了微信小程序组件化开发框架 wepy 开发资源汇总 | ![GitHub stars](https://img.shields.io/github/stars/aben1188/awesome-wepy.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/G8quhEtO7?from=page_1005055722964389_profile&wvr=6&mod=weibotime&type=comment#_rnd1536407484467)
 [WePY](https://github.com/Tencent/wepy) | 腾讯开源的一款让小程序支持组件化开发的框架，通过预编译的手段让开发者可以选择自己喜欢的开发风格去开发小程序 | ![GitHub stars](https://img.shields.io/github/stars/Tencent/wepy.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/G8maojVkQ?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
