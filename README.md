@@ -12,7 +12,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
 
-> 欢迎到 [Issues](https://github.com/GitHubDaily/GitHubDaily/issues) 推荐或自荐项目，让更多人知道你的项目。
+> 欢迎到 [Issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，让更多人知道你的项目。
 
 ## 目录
 
