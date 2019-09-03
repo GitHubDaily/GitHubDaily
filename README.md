@@ -268,6 +268,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) | 一份机器学习 100天 中文版教程 | ![GitHub stars](https://img.shields.io/github/stars/MLEveryday/100-Days-Of-ML-Code.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/GxKxjy684?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [Vid2vid](https://github.com/NVIDIA/vid2vid) | 由 NVIDIA 团队开源的一个实现了用于高分辨率照片级真实视频到视频转换的方法，支持语义标签贴图转换为照片般逼真的视频、合成人们从边缘地图谈话、以及从姿势转换成人体 | ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/vid2vid.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/GvCX8entj?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
 [Guetzli](https://github.com/google/guetzli) |  Google 开源的一个针对数码图像和网页图像的 JPEG 编码器，相比由 libjpeg 生成的同等质量的图像还要小 20~30% | ![GitHub stars](https://img.shields.io/github/stars/google/guetzli.svg) | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/G4RkYfkkQ?from=page_1005055722964389_profile&wvr=6&mod=weibotime)
+[智能井字棋](https://tictactoe.js.org) | 你应该实现的第一个机器学习程序 | ![GitHub stars](https://img.shields.io/github/stars/Jeff-Tian/tic-tac-toe-ai.svg) | [GitHub](https://github.com/Jeff-Tian/tic-tac-toe-ai)
 
 ### Vue / React
 
