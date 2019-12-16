@@ -2,7 +2,7 @@
 
 专家工程师，技术 leader，现居北京，待过腾讯和百度，10 年编程经验，目前是国内某顶尖独角兽公司的首席架构师。
 
-热衷开源，GitHub（https://github.com/singwhatiwanna）累积有 16000 star 以及 6800+ Followers。
+热衷开源，[GitHub](https://github.com/singwhatiwanna) 累积有 16000 star 以及 6800+ Followers。
 
 个人职场发展堪称开挂，不仅对编程和架构设计有丰富经验，还深谙职场晋升规则。
 
