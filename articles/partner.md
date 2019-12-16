@@ -14,13 +14,13 @@
 
 下面是几篇他写的文章：
 
-[论程序员成长的正确姿势](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492475&idx=1&sn=43a56a491d8d332b29b5d5375a083231&chksm=8eec8004b99b09122b91e69e6f2ea649b55244483c62c2624b6ff34d0436a55a88b42b4d6c2a&scene=21#wechat_redirect)
-[程序员谈薪指北](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493282&idx=1&sn=1cb065726ff7c1cf756b80f72f82086d&chksm=8eec84ddb99b0dcbfabb0481dd61b8a0a9264138ef90856edb04c68d4bbc82df9f3c3911d1ad&scene=21#wechat_redirect)
-[从百度的 PPT 文化看程序员晋升](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493364&idx=1&sn=26a7c2e359ac77b8fb05225b56e70ddc&chksm=8eec848bb99b0d9d2ecf0b7b38e87aeddd2f462819aec627cde73bd13d2eb4ae35eb010519f4&scene=21#wechat_redirect)
-[程序员如何写高质量简历？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493682&idx=1&sn=e6f541fbe7b20eb3e8b3fb40ffe56ea3&chksm=8eec9b4db99b125b5ffd85039fc4382a702ee2aeaf313f715536c978e86f4a15b05e96ddc969&scene=21#wechat_redirect)
-[谈谈面试技巧](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493704&idx=1&sn=50cb1d36564cc8f704f5169b771552a4&chksm=8eec9b37b99b122180f9736e62dcd9413e6eba8ac9320669e1517649a4d3893b5d7a86b7c200&scene=21#wechat_redirect)
-[普通人如何提高格局？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649494021&idx=1&sn=f819f552d7274f2706055454e2de9eea&chksm=8eec99fab99b10ec1a9c25fd752d80454d6c770dab9929ece23a5a066d0e69da75760e2b6da6&scene=21#wechat_redirect)
-[如何通俗理解设计模式及其思想？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492895&idx=1&sn=1bb90c14d5e9693e819d3b0366f28da4&chksm=8eec8660b99b0f760790dfead84f6ab4095207d60e0ad5739c0f0724519ad1dc41dc738166a6&scene=21#wechat_redirect)
+- [论程序员成长的正确姿势](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492475&idx=1&sn=43a56a491d8d332b29b5d5375a083231&chksm=8eec8004b99b09122b91e69e6f2ea649b55244483c62c2624b6ff34d0436a55a88b42b4d6c2a&scene=21#wechat_redirect)
+- [程序员谈薪指北](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493282&idx=1&sn=1cb065726ff7c1cf756b80f72f82086d&chksm=8eec84ddb99b0dcbfabb0481dd61b8a0a9264138ef90856edb04c68d4bbc82df9f3c3911d1ad&scene=21#wechat_redirect)
+- [从百度的 PPT 文化看程序员晋升](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493364&idx=1&sn=26a7c2e359ac77b8fb05225b56e70ddc&chksm=8eec848bb99b0d9d2ecf0b7b38e87aeddd2f462819aec627cde73bd13d2eb4ae35eb010519f4&scene=21#wechat_redirect)
+- [程序员如何写高质量简历？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493682&idx=1&sn=e6f541fbe7b20eb3e8b3fb40ffe56ea3&chksm=8eec9b4db99b125b5ffd85039fc4382a702ee2aeaf313f715536c978e86f4a15b05e96ddc969&scene=21#wechat_redirect)
+- [谈谈面试技巧](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493704&idx=1&sn=50cb1d36564cc8f704f5169b771552a4&chksm=8eec9b37b99b122180f9736e62dcd9413e6eba8ac9320669e1517649a4d3893b5d7a86b7c200&scene=21#wechat_redirect)
+- [普通人如何提高格局？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649494021&idx=1&sn=f819f552d7274f2706055454e2de9eea&chksm=8eec99fab99b10ec1a9c25fd752d80454d6c770dab9929ece23a5a066d0e69da75760e2b6da6&scene=21#wechat_redirect)
+- [如何通俗理解设计模式及其思想？](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492895&idx=1&sn=1bb90c14d5e9693e819d3b0366f28da4&chksm=8eec8660b99b0f760790dfead84f6ab4095207d60e0ad5739c0f0724519ad1dc41dc738166a6&scene=21#wechat_redirect)
 
 下面是一些节选：
 
