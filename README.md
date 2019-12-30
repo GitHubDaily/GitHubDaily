@@ -18,6 +18,8 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 
 下面是对 GitHubDaily 在 2019 年所发的微博进行分类整理，方便粉丝们查找以往分享过的内容。
 
+> 过往复盘 [2018](https://github.com/GitHubDaily/GitHubDaily/blob/master/2018.md)。
+
 ### 目录
 
 
@@ -49,7 +51,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [advanced-java](https://github.com/doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/HbfMyC03g)
 [ForestBlog](https://github.com/saysky/ForestBlog) | 一个简单又漂亮的博客系统，该系统由 Spring + SpringMVC + Mybatis 框架实现，适合初学 SSM 和个人博客制作的同学学习 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/ImJg4o9yZ)
 
-## Python
+### Python
 
 库名 | 简述 | 源
 ---- | ----- | -----
@@ -294,7 +296,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [GitHub Games](https://likexia.gitee.io/game/index.html#/) | 这个网站把 GitHub 上一些有趣的 HTML 小游戏进行了汉化，然后放到上面供人玩耍 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Hn77ibjWI)
 [paperswithcode](https://paperswithcode.com/) | 该网站按照计算机的不同应用领域进行划分，收集并整理了众多开源项目，每个项目都包含着相关论文供学习参考，分类涵盖了计算机视觉、自然语言处理、医学、方法论、语音、游戏、机器人等多个领域 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/HgKJR1s9z)
 
-### 有趣/实用开源工具
+### 有趣 / 实用开源工具
 
 库名 | 简述 | 源
 ---- | ----- | -----
@@ -392,7 +394,7 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [cloudquery](https://github.com/t9tio/cloudquery) | 一款能给任意网站生成 API 的工具，开发者通过点击页面元素即可选择生成内容，非常方便，搞前端的同学可以了解下 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/HdyIz2DSx)
 [music-dl](https://github.com/0xHJK/music-dl) | 使用 Python 开发的一个可从网易云音乐、QQ音乐、酷狗音乐等搜索和下载最优音质歌曲的工具，支持多线程搜索和下载，还可以对搜索结果去重 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/HcM3xbOla)
 
-### 机器学习/人工智能
+### 机器学习 / 人工智能
 
 库名 | 简述 | 源
 ---- | ----- | -----
