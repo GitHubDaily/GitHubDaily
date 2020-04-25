@@ -48,7 +48,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-98355-4_29
 
 在这本书中，作者共汇总了 21 次教学活动的分享内容，并将其划分为四个部分，每个部分具体包含的内容如下：
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28hR7ISjk5UWwRuibia4qPJxXHu5bQMoibLTx9ThWzLULlsOQ4X6qYODAUbicgCzK7IrmWtQlEEaial54wA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28hR7ISjk5UWwRuibia4qPJxXHu5bQMoibLTx9ThWzLULlsOQ4X6qYODAUbicgCzK7IrmWtQlEEaial54wA/640)
 
 在对每个活动进行单独讲解之前，作者会很贴心的先将该活动的一些课程摘要、课程衔接、所学技能、适合年龄、所需素材先单独列举出来，以便读者先做好学习准备。
 
