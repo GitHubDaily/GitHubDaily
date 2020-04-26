@@ -26,7 +26,9 @@ https://refactoring.guru/
 
 Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲解：
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28ialFxX7ibsIQGbVaOeSgZbwATTVpcibUZ7SAvEmT1FEWKCU3vmhADFfzqLs7aFxXbkDEHnX5Kib9zbJw/640作原理：
+![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28ialFxX7ibsIQGbVaOeSgZbwATTVpcibUZ7SAvEmT1FEWKCU3vmhADFfzqLs7aFxXbkDEHnX5Kib9zbJw/640)
+
+每个设计模式都对应配有一篇图文并茂的文章，让开发者可以很轻松的搞懂每个设计模式的具体工作原理：
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28ialFxX7ibsIQGbVaOeSgZbwAjNvJrkJz7TuVnIVlBaomUl2e5spjXW6EX4XiagtzQW3aZckFxLmTMjQ/640)
 
