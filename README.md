@@ -7,12 +7,11 @@
 
 GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
 
+- [历史文章精选](https://github.com/GitHubDaily/GitHubDaily/tree/master/articles)
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
 
 > 欢迎到 [Issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，让更多人知道你的项目。
-
-> >>>[历史文章精选](https://github.com/GitHubDaily/GitHubDaily/tree/master/articles)<<<
 
 ---
 
