@@ -18,13 +18,13 @@
 
 因此，学会使用 Git，相当于你购入了一张通往世界顶级开发者社区的门票。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsj1GnOkM3Tw4iac5NZiak74FFiaEPwNYIMdLCicUiaKMckLFicdQgY0AOwjoQ/640)
-
 今天，学习 Git 已不再是难事，回想我在早年间刚接触 Git 那会，中文互联网上于此相关的资料少的可怜，更不用说有人讨论 GitHub 上的开源项目了。
 
 我最早接触 Git 和 GitHub 的时候，是读了 Michael Hartl 的一本书《Ruby on Rails tutorial》。这本书可以说是打开了我通往技术圈的一扇大门，里面教授的各种编程理念与开发技巧，令我受益至今。感兴趣的同学，可以自己去找来看一下。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsjr7ODeHgNiaqDZTYOW9QTu91e7OjmIbn5dryK1R2BL865NoJGPPRETA/640)
+<p align="center">
+    ![img](https://mmbiz.qpic.cn/mmbiz_png/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsjr7ODeHgNiaqDZTYOW9QTu91e7OjmIbn5dryK1R2BL865NoJGPPRETA/640)
+</p>
 
 下面我们接着聊回 Git。
 
@@ -46,7 +46,9 @@
 
 Learn Git Branching 的作者，是毕业自美国加州大学伯克利分校的一名开发者：Peter Cottle。
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsBsEGUTfzWyaibgiagMf3lCEuf1HDIqQkC8oJPhsfRWgicTDsCKdCDKUZQ/640)
+<p align="center">
+    ![img](https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsBsEGUTfzWyaibgiagMf3lCEuf1HDIqQkC8oJPhsfRWgicTDsCKdCDKUZQ/640)
+</p>
 
 在这款游戏中，开发者需要通过一系列关卡挑战，来慢慢掌握对 Git 的使用。在每一个关卡里面，作者都会为你提前设定好一个 Git 学习目标。
 
@@ -54,7 +56,9 @@ Learn Git Branching 的作者，是毕业自美国加州大学伯克利分校的
 
 具体演示如下：
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsymjVd30riaPlIw4ztMnh9Lf94ia6xpYoPXdOiaKdKc6BzMDc5rgglXq3g/640)
+<p align="center">
+    ![img](https://mmbiz.qpic.cn/mmbiz_gif/uDRkMWLia28h0MuaiaPYRah7VNBSXyxtMsymjVd30riaPlIw4ztMnh9Lf94ia6xpYoPXdOiaKdKc6BzMDc5rgglXq3g/640)
+</p>
 
 该项目的玩法整体都比较简单，没有过多花里胡哨的东西，配合网站上默认集成的虚拟终端环境与预览页面，可以让我们很清晰的看到每一行命令的实际运行效果。
 
