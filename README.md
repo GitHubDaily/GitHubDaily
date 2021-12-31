@@ -28,12 +28,12 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 - [Java](#java)
 - [Python](#python)
 - [Go](#go)
-- [工具](#工具)
 - [前端](#前端)
 - [移动端](#移动端)
+- [工具](#工具)
 - [插件](#插件)
 - [资料集合](#资料集合)
-- [开源书籍/教程](#开源书籍教程)
+- [书籍/教程](#开源书籍教程)
 - [机器学习/人工智能](#机器学习人工智能)
 - [有趣网站](#有趣网站)
 - [其他](#其他)
@@ -149,6 +149,19 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [Revo Grid](https://github.com/revolist/revogrid) | 一款比较实用的前端组件，拥有可高度定制化的虚拟数据智能表格，涵盖了 Excel 上那些优秀特性。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JFfxep6Qz)
 [《带你入门前端工程》](https://github.com/woai3c/introduction-to-front-end-engineering) | 一本开源的前端技术书籍，主要记录作者在近两年来，在前端工程师实践经验和学习心得方面的总结。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JENfKdl79)
 [iMove](https://github.com/i5ting/imove) | 一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库。拥有流程可视化、逻辑复用、灵活可扩展等特性。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JCZiRlywS)
+
+### 移动端
+
+名称 | 简述 | 源
+---- | ----- | -----
+[fl_chart](https://github.com/imaNNeoFighT/fl_chart) | 一款开源的 Flutter 图表动画组件库：fl_chart，支持折线图、条形图、饼图、散点图和雷达图等多种图表，并且都拥有不错的动画效果 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](%id/L7NkobNfX)
+[Bruno](https://github.com/LianjiaTech/bruno) | 一套开源的企业级移动端 Flutter 组件库，自带 100+ 组件，开箱即用，主题可自定制，并拥有简约大气的交互和视觉风格。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L6LH2lZ8j)
+[Flipper](https://github.com/facebook/flipper) | 一款移动端调试工具，可在 PC 桌面上可视化调试与控制 iOS、Android 与 React Native 应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KBVO69M7x)
+[Scrcpy](https://github.com/Genymobile/scrcpy) | 一个通过 USB（或 TCP / IP）连接到电脑上高清显示和流畅控制 Android 设备的工具，适用于 GNU/Linux、Windows 和 Mac OS，无需 root 权限。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxYHbjD7W)
+[Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) | 收录了一系列基于 Flutter 开发的组件包与开源项目，其中包括密码管理器、音乐播放器、翻译词典、漫画阅读器等应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxcnEzg5O)
+[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) | 微软发布的一款专注于移动端应用的 UI 图标库，针对 iOS、Android、Flutter 等不同开发平台，微软均提供了可快速安装的方式，集成与使用一气呵成。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KwtBitJ3Y)
+[Flutter UME](https://github.com/bytedance/flutter_ume) | 一款 Flutter 应用内调试工具平台，里面内置了 Widget 信息、颜色吸管、对齐标尺、代码查看、日志展示、内存及 CPU 信息等 10 个插件。开发者可自行创建插件，并集成进 UME 平台。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KqWhS0i5W)
+[fl_chart](https://github.com/imaNNeoFighT/fl_chart) | 一款开源的 Flutter 图表动画组件库，支持折线图、条形图、饼图、散点图和雷达图等多种图表，并且都拥有不错的动画效果。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L7NkobNfX)
 
 ### 工具
 
@@ -278,20 +291,6 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [termpair](https://github.com/cs01/termpair) | 一个挺有趣的开发工具，开发者可通过浏览器实时访问、使用电脑上的命令行终端，整个访问过程将基于端对端加密 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KijG2AyyZ)
 [what-anime-cli](https://github.com/irevenko/what-anime-cli) | 一个挺有意思的命令行工具，可在命令行中通过动漫图片，快速检索出其作品信息，支持多种图片格式。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)]()
 [deskreen](https://github.com/pavlobu/deskreen) | 可将电脑屏幕共享到任意带有浏览器的设备上，使之成为电脑的第二块屏幕。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JELGkBbAV)
-
-### 移动端
-
-名称 | 简述 | 源
----- | ----- | -----
-[fl_chart](https://github.com/imaNNeoFighT/fl_chart) | 一款开源的 Flutter 图表动画组件库：fl_chart，支持折线图、条形图、饼图、散点图和雷达图等多种图表，并且都拥有不错的动画效果 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](%id/L7NkobNfX)
-[Bruno](https://github.com/LianjiaTech/bruno) | 一套开源的企业级移动端 Flutter 组件库，自带 100+ 组件，开箱即用，主题可自定制，并拥有简约大气的交互和视觉风格。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L6LH2lZ8j)
-[Flipper](https://github.com/facebook/flipper) | 一款移动端调试工具，可在 PC 桌面上可视化调试与控制 iOS、Android 与 React Native 应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KBVO69M7x)
-[Scrcpy](https://github.com/Genymobile/scrcpy) | 一个通过 USB（或 TCP / IP）连接到电脑上高清显示和流畅控制 Android 设备的工具，适用于 GNU/Linux、Windows 和 Mac OS，无需 root 权限。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxYHbjD7W)
-[Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) | 收录了一系列基于 Flutter 开发的组件包与开源项目，其中包括密码管理器、音乐播放器、翻译词典、漫画阅读器等应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxcnEzg5O)
-[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) | 微软发布的一款专注于移动端应用的 UI 图标库，针对 iOS、Android、Flutter 等不同开发平台，微软均提供了可快速安装的方式，集成与使用一气呵成。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KwtBitJ3Y)
-[Flutter UME](https://github.com/bytedance/flutter_ume) | 一款 Flutter 应用内调试工具平台，里面内置了 Widget 信息、颜色吸管、对齐标尺、代码查看、日志展示、内存及 CPU 信息等 10 个插件。开发者可自行创建插件，并集成进 UME 平台。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KqWhS0i5W)
-[fl_chart](https://github.com/imaNNeoFighT/fl_chart) | 一款开源的 Flutter 图表动画组件库，支持折线图、条形图、饼图、散点图和雷达图等多种图表，并且都拥有不错的动画效果。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L7NkobNfX)
-
 ### 插件
 
 名称 | 简述 | 源
@@ -392,60 +391,6 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [machine-learning-collection](https://github.com/microsoft/machine-learning-collection) | 微软在 GitHub 上开源了一份机器学习相关的资源列表。主要收集微软及其子公司在机器学习领域中常用的一些工具、模型、数据集等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kj5ZJAVwk)
 [《代码安全指南》](https://github.com/Tencent/secguide) | 该指南旨在梳理 API 层面的风险点并提供详实可行的安全编码方案。当前已包含 C/C++、JavaScript、Node、Go、Java、Python 等多个不同编程语言版本。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KibqCt5hB)
 
-### 机器学习/人工智能
-
-名称 | 简述 | 源
----- | ----- | -----
-[Animated Drawings](https://sketch.metademolab.com/) | 一款很有趣的 AI 工具，可以借助人工智能技术，让儿童绘画作品动起来。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L7be3caHT)
-[VNN](https://github.com/joyycom/VNN) | YY 开源的一款高性能、轻量级神经网络部署框架，可将真实人脸快速转换为迪士尼、3D 游戏、油画画像风格的人脸外形，并提供了适配多场景的目标检测、物品分割、对象识别等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L5nHAuA4f)
-[MotionPlanning](https://github.com/zhm-real/MotionPlanning) | 来自华为的自动驾驶算法工程师，在 GitHub 开源了一个运动规划算法，里面实现了各类自动驾驶汽车上常用的路径规划 + 路径跟踪算法。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L4vsEo5PJ)
-[「NÜWA（女娲）」](https://github.com/microsoft/NUWA) | 微软与北京大学联手，在 GitHub 开源了一个多模态预训练模型，可实现文本/草图转图像、图像补全、文字/草图转视频等任务，功能异常强大。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L3gRDcwqP)
-[Qlib](https://github.com/microsoft/qlib) | 一个 AI 量化交易平台，旨在寻求与挖掘 AI 技术在量化投资领域中的价值。里面包含数据处理、模型训练、回溯测试的完整 ML 管道，并且覆盖了量化投资的整个链条：Alpha 探索、风险建模、投资组合优化和交易执行等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L2M24EQXi)
-[abstreet](https://github.com/a-b-street/abstreet) | 项目可通过软件来模拟街道和十字路口的交通流量，以规划各类车辆的运行网络，进一步改善交通状况。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L2l7zjPkT)
-[Eiten](https://github.com/tradytics/eiten) | 国外一家热衷于用 AI 与数据分析来做投资分析的企业 Tradytics，在 GitHub 开源的内部工具包，里面主要实现了各种统计与算法投资策略，如最小方差、最大夏普比率和基于遗传算法的投资组合，对这块技术感兴趣的同学可以看下。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L23rE86E2)
-[face2comics](https://github.com/Sxela/face2comics) | 外国一位名为 Alex 的开发者整理的人脸转漫画数据集，数据集拥有两个版本，v1 主要为深色调（含 1 万张图片），v2 为深红色调（含 2 万张图片）。漫画风格偏欧美风，可用于训练 pix2pix 或相似网络 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L1bqXcRvo)
-[KalidoKit](https://github.com/yeemachine/kalidokit) | 来自纽约的开发者 Richard Yee 做了一款人体运动模拟器，通过捕捉人体面部表情、眼睛、姿势、手部动作等元素后，便可自动映射到虚拟人物身上，打通真实世界与虚拟世界的连接。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0RcJeVUJ)
-[Simula](https://github.com/SimulaVR/Simula) | 为了推进 VR 与 AR 技术在 Linux 系统上的应用，国外一家名为 SimulaVR 的机构打造了一款 Linux VR 桌面窗口管理器 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0Q1FBNSk)
-[AnimeGANv2-PyTorc](https://github.com/bryandlee/animegan2-pytorch) | 可借助 AI 技术，快速将图像转换为漫画风格画作，提供 Demo 试用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0HMg73CA)
-[WantWords](https://github.com/thunlp/WantWords) | 清华大学 NLP 实验室在 GitHub 开源的 WantWords（万词王）词典还蛮有意思的。通过指定词义，便可匹配与之描述相近的词汇。比如，当你输入「开心的词」，该工具便会给出 "快乐"、"愉快"、"高兴" 等词汇。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0uqcocaP)
-[Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) | 一个开源的机器狗，带有激光雷达、相机传感器，整体成本不到 500 美元。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0mz8F03G)
-[Lite.AI.ToolKit](https://github.com/DefTruth/lite.ai.toolkit) | 一款开箱即用的 C++ AI 模型工具箱，涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFRJWz2NX)
-[HandPose X](https://github.com/EricLee2021-72324/handpose_x) | 国内一位开发者在 GitHub 上开源的手势识别项目，支持手部 21 个关键点检测、二维手势姿态、手势识别等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFIjsjDaw)
-[invoice](https://github.com/guanshuicheng/invoice) | 一个开源的增值税发票 OCR 识别项目，可通过 API 接口，快速识别发票代码、发票号码、开票日期、校验码、税后金额等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFtbPiulP)
-[PSGAN](https://github.com/wtjiang98/PSGAN) | 北航与国科大在 2019 年与 GitHub 开源的一项技术，可通过生成对抗网络，快速实现妆容转移、一键上妆等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFpsu6qUI)
-[AI-Writer](https://github.com/BlinkDL/AI-Writer) | 可用 GPT 来生成中文网文小说，模型训练数据来自网文。项目内置基于 Python 运行的网页界面，并通过特殊采样方法，改善了小模型的生成质量。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFg1XrNtE)
-[ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph) | 国内一位开发者在 GitHub 开源的产业链图谱，主要包括 A 股上市公司、行业与产品共 3 类实体。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KENKtwvVc)
-[Lichee](https://github.com/Tencent/Lichee) | 腾讯技术团队在 GitHub 开源的一款「多模态内容理解」算法框架，框架采用分层的思想组织模型训练流程，包含了数据处理、预训练模型、常见模型以及模型加速等模块。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KECKz5MN8)
-[MuJoCo](https://github.com/deepmind/mujoco) | Deepmind 前不久收购了知名物理引擎 MuJoCo，未来将用于机器人、生物学、图形动画、机器学习等领域，帮助开发者提升产品开发体验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KDVxDs5Kc)
-[LaMa](https://github.com/saic-mdal/lama) | 由莫斯科三星人工智能中心开源，可快速进行图像修复、指定对象移除等操作。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KDAkP8csy)
-[PathPlanning](https://github.com/zhm-real/PathPlanning) | 一个动画算法库，主要实现多种在机器人领域中，常用到的路径规划算法，其中也包括基于搜索与采样的方法。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KC43xtbgX)
-[Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) | 浙江大学 FASTLAB 实验室，在 GitHub 上开源了一套自主导航无人机的硬件组成与搭建方案。该项目可应用于无人机在未知环境中的自主飞行，集群飞行等场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KBJD7ASwc)
-[Muzic](https://github.com/microsoft/muzic) | 微软最近在 GitHub 上开源了一个 AI 音乐项目，基于深度学习，可自动完成音乐创作。创作过程主要分为两步，一是音乐理解（符号分类、声音识别），二是音乐合成（歌曲歌词创作、音乐旋律生成）。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KAom4FzTk)
-[LAION-400-MILLION OPEN DATASET](https://laion.ai/laion-400-open-dataset/) | 国外一家名为 Laion 的人工智能非盈利组织，开放了全球最大的图像文本对（image-text-pair）数据集，共提供了 4 亿样本数据。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)]()
-[RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | 来自字节跳动的工程师在 GitHub 上开源了一项视频自动抠图技术，该技术引入了一种强大、实时、高分辨率的人物视频抠图方法，使用循环神经网络，在处理视频流时有时间记忆，可在任意视频上做实时高清抠像。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KzEoG7ZTy)
-[Kornia](https://github.com/kornia/kornia) | 一款基于 PyTorch 的可微分的计算机视觉库。可训练模型来执行图像变换、对极几何、深度估计和低级图像处理。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KzsdGBtxk)
-[Tangram（七巧板）](https://github.com/tangramdotdev/tangram) | 一个可帮助 AI 开发者快速训练、部署与监控机器学习模型的开源工具。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kys9JFyt1)
-[DataCLUE](https://github.com/CLUEbenchmark/DataCLUE) | 国内首个以数据为中心的 AI 测评（含模型分析报告），可通过系统化改造数据来提升模型效果。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KyhybxBYE)
-[Real-time Stock-market](https://github.com/victor369basu/Real-time-stock-market-prediction) | 作者尝试基于机器学习来进行股票市场预测。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxdyHi36a)
-[PersonGraphDataSet](https://github.com/liuhuanyong/PersonGraphDataSet) | 一份开源的人物图谱数据集，收录了近十万的人物关系图谱事实数据库，通过人物关系抽取算法抽取 + 人工整理得出，可用于人物关系搜索、查询、人物关系多跳问答，以及人物关系推理等场景提供基础数据。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kw8obhjbN)
-[chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) | 一款超轻量级中文 OCR，支持竖排文字识别，总模型仅 4.7M。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvGiQvb5y)
-[SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) | 一个开源的深圳地铁大数据客流分析系统，主要通过分析深圳通刷卡数据，从大数据的技术角度来研究深圳地铁客运能力，探索深圳地铁优化服务的方向。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvpBOuFRz)
-[NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection) | 一个开源项目，可用于识别火影忍者中的结印手势。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvnfItTfP)
-[BIFROST](https://datasets.bifrost.ai/) | 给从事 AI 开发的同学分享个数据集搜索神器，该网站当前共计拥有 1900 个数据集，提供人物、自动驾驶汽车、零售、无人机等六大类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kv4oHjlCU)
-[MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | 一个开源的 MLOps 基础教程，作者将通过 10 周的时间，带你了解 MLOps 的基础知识，如模型构建、监控、配置、测试、打包、部署、CI/CD（GitHub Actions）等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KuToMAN7b)
-[CompreFace](https://github.com/exadel-inc/CompreFace) | 一款开源的人脸识别与检测系统，不懂机器学习技术亦可使用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KuLxIbNeV)
-[pix2tex](https://github.com/lukas-blecher/LaTeX-OCR) | 一款开源的 LaTeX 代码识别系统，基于深度学习技术，快速识别数学公式的图像，并返回相应的 LaTeX 代码。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kub0Lur6c)
-[Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) | 一个基于深度学习的中文语音合成项目，通过采集分析一段具体的声音样本，可在 5 秒内生成与之类似的克隆语音。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ku8giFNOS)
-[AI_Tutorial](https://github.com/cbamls/AI_Tutorial) | 一个开源的 AI 学习资料库，主要整理了人工智能、机器学习、深度学习、搜索系统、推荐系统、广告系统等领域的学习资料。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KtLhAkezp)
-[Polaris](https://github.com/ChibaniMohamed/Polaris) | 一款开源的人脸考勤系统，集成了脸部识别技术，拥有颇具未来感的设计风格，可用于尝鲜。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KtIJhvPH0)
-[neural_network_papers](https://github.com/curryandsun/neural_network_papers) | 一份开源的 AI 论文笔记，主要记录作者读过的一些论文，给出个人对论文的评分情况并简述论文 insight。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KsvjjnWZg)
-[NLPDataSet](https://github.com/liucongg/NLPDataSet) | 国内一名开发者在 GitHub 开源了常用数据集，主要将多个网络数据集进行整理清洗，并将格式统一化。其主要目的，在于构建一个较完善的中文片段抽取式阅读理解数据集。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ks9HQvfzg)
-[Lite.AI](https://github.com/DefTruth/lite.ai) | 一个比较丰富的 C++ 库，里面收录了 60 多个实用的 AI 模型，其中包含对象检测、人脸检测、风格迁移、人脸识别、图像分割、图像分类等类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KrSqgjMNO)
-[AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) | 一个 AI 知识库，帮助开发者快速上手 AI 理论及应用实战：基础知识、机器学习、深度学习、自然语言处理 BERT，含大量注释及数据集，力求每一位能看懂并复现。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kq5Er9xsW)
-[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) | 一个 NLP 开源知识库，主要收录 NLP 竞赛经验贴、通用工具、学习资料等内容，覆盖文本分类、机器翻译、语义解析、实体识别等类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KpSiojUzt)
-[DouZero](https://github.com/kwai/DouZero) | 一个 AI 斗地主项目，基于深度学习与深度蒙特卡罗（DMC）算法构建，尝试让 AI 与人类博弈。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KlmdYpi0k)
-
-
 ### 书籍/教程
 
 名称 | 简述 | 源
@@ -542,6 +487,59 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [《计算机视觉实战演练：算法与应用》](https://github.com/Charmve/computer-vision-in-action) | 作者为迈微 AI 研习社创始人、CSDN 博客专家。内容有计算机视觉相关的基础知识和预备知识，计算机视觉基础理论（核心部分为神经网络模型）等等 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kjq1Dn553)
 [《设计可用的电子产品》](http://designingelectronics.com/) | 一本电气工程相关的电子书，作者为 Hunter Scott，现担任 Reach Labs（硅谷科技公司）的硬件工程总监，从事电子产品设计工作十余年，曾创建两家硬件公司，具有颇为丰富的硬件研发经验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KjnIkz0sJ)
 [《JavaScript 二十年》](https://github.com/doodlewind/jshistory-cn) | 一本翻译质量颇高的前端开源书籍，该书自一年前启动翻译，并于前不久出版了纸质书，目前电子版在 GitHub 上已完整开源。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kiqm3EfIa)
+
+### 机器学习/人工智能
+
+名称 | 简述 | 源
+---- | ----- | -----
+[Animated Drawings](https://sketch.metademolab.com/) | 一款很有趣的 AI 工具，可以借助人工智能技术，让儿童绘画作品动起来。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L7be3caHT)
+[VNN](https://github.com/joyycom/VNN) | YY 开源的一款高性能、轻量级神经网络部署框架，可将真实人脸快速转换为迪士尼、3D 游戏、油画画像风格的人脸外形，并提供了适配多场景的目标检测、物品分割、对象识别等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L5nHAuA4f)
+[MotionPlanning](https://github.com/zhm-real/MotionPlanning) | 来自华为的自动驾驶算法工程师，在 GitHub 开源了一个运动规划算法，里面实现了各类自动驾驶汽车上常用的路径规划 + 路径跟踪算法。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L4vsEo5PJ)
+[「NÜWA（女娲）」](https://github.com/microsoft/NUWA) | 微软与北京大学联手，在 GitHub 开源了一个多模态预训练模型，可实现文本/草图转图像、图像补全、文字/草图转视频等任务，功能异常强大。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L3gRDcwqP)
+[Qlib](https://github.com/microsoft/qlib) | 一个 AI 量化交易平台，旨在寻求与挖掘 AI 技术在量化投资领域中的价值。里面包含数据处理、模型训练、回溯测试的完整 ML 管道，并且覆盖了量化投资的整个链条：Alpha 探索、风险建模、投资组合优化和交易执行等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L2M24EQXi)
+[abstreet](https://github.com/a-b-street/abstreet) | 项目可通过软件来模拟街道和十字路口的交通流量，以规划各类车辆的运行网络，进一步改善交通状况。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L2l7zjPkT)
+[Eiten](https://github.com/tradytics/eiten) | 国外一家热衷于用 AI 与数据分析来做投资分析的企业 Tradytics，在 GitHub 开源的内部工具包，里面主要实现了各种统计与算法投资策略，如最小方差、最大夏普比率和基于遗传算法的投资组合，对这块技术感兴趣的同学可以看下。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L23rE86E2)
+[face2comics](https://github.com/Sxela/face2comics) | 外国一位名为 Alex 的开发者整理的人脸转漫画数据集，数据集拥有两个版本，v1 主要为深色调（含 1 万张图片），v2 为深红色调（含 2 万张图片）。漫画风格偏欧美风，可用于训练 pix2pix 或相似网络 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L1bqXcRvo)
+[KalidoKit](https://github.com/yeemachine/kalidokit) | 来自纽约的开发者 Richard Yee 做了一款人体运动模拟器，通过捕捉人体面部表情、眼睛、姿势、手部动作等元素后，便可自动映射到虚拟人物身上，打通真实世界与虚拟世界的连接。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0RcJeVUJ)
+[Simula](https://github.com/SimulaVR/Simula) | 为了推进 VR 与 AR 技术在 Linux 系统上的应用，国外一家名为 SimulaVR 的机构打造了一款 Linux VR 桌面窗口管理器 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0Q1FBNSk)
+[AnimeGANv2-PyTorc](https://github.com/bryandlee/animegan2-pytorch) | 可借助 AI 技术，快速将图像转换为漫画风格画作，提供 Demo 试用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0HMg73CA)
+[WantWords](https://github.com/thunlp/WantWords) | 清华大学 NLP 实验室在 GitHub 开源的 WantWords（万词王）词典还蛮有意思的。通过指定词义，便可匹配与之描述相近的词汇。比如，当你输入「开心的词」，该工具便会给出 "快乐"、"愉快"、"高兴" 等词汇。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0uqcocaP)
+[Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) | 一个开源的机器狗，带有激光雷达、相机传感器，整体成本不到 500 美元。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L0mz8F03G)
+[Lite.AI.ToolKit](https://github.com/DefTruth/lite.ai.toolkit) | 一款开箱即用的 C++ AI 模型工具箱，涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFRJWz2NX)
+[HandPose X](https://github.com/EricLee2021-72324/handpose_x) | 国内一位开发者在 GitHub 上开源的手势识别项目，支持手部 21 个关键点检测、二维手势姿态、手势识别等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFIjsjDaw)
+[invoice](https://github.com/guanshuicheng/invoice) | 一个开源的增值税发票 OCR 识别项目，可通过 API 接口，快速识别发票代码、发票号码、开票日期、校验码、税后金额等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFtbPiulP)
+[PSGAN](https://github.com/wtjiang98/PSGAN) | 北航与国科大在 2019 年与 GitHub 开源的一项技术，可通过生成对抗网络，快速实现妆容转移、一键上妆等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFpsu6qUI)
+[AI-Writer](https://github.com/BlinkDL/AI-Writer) | 可用 GPT 来生成中文网文小说，模型训练数据来自网文。项目内置基于 Python 运行的网页界面，并通过特殊采样方法，改善了小模型的生成质量。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KFg1XrNtE)
+[ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph) | 国内一位开发者在 GitHub 开源的产业链图谱，主要包括 A 股上市公司、行业与产品共 3 类实体。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KENKtwvVc)
+[Lichee](https://github.com/Tencent/Lichee) | 腾讯技术团队在 GitHub 开源的一款「多模态内容理解」算法框架，框架采用分层的思想组织模型训练流程，包含了数据处理、预训练模型、常见模型以及模型加速等模块。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KECKz5MN8)
+[MuJoCo](https://github.com/deepmind/mujoco) | Deepmind 前不久收购了知名物理引擎 MuJoCo，未来将用于机器人、生物学、图形动画、机器学习等领域，帮助开发者提升产品开发体验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KDVxDs5Kc)
+[LaMa](https://github.com/saic-mdal/lama) | 由莫斯科三星人工智能中心开源，可快速进行图像修复、指定对象移除等操作。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KDAkP8csy)
+[PathPlanning](https://github.com/zhm-real/PathPlanning) | 一个动画算法库，主要实现多种在机器人领域中，常用到的路径规划算法，其中也包括基于搜索与采样的方法。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KC43xtbgX)
+[Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) | 浙江大学 FASTLAB 实验室，在 GitHub 上开源了一套自主导航无人机的硬件组成与搭建方案。该项目可应用于无人机在未知环境中的自主飞行，集群飞行等场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KBJD7ASwc)
+[Muzic](https://github.com/microsoft/muzic) | 微软最近在 GitHub 上开源了一个 AI 音乐项目，基于深度学习，可自动完成音乐创作。创作过程主要分为两步，一是音乐理解（符号分类、声音识别），二是音乐合成（歌曲歌词创作、音乐旋律生成）。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KAom4FzTk)
+[LAION-400-MILLION OPEN DATASET](https://laion.ai/laion-400-open-dataset/) | 国外一家名为 Laion 的人工智能非盈利组织，开放了全球最大的图像文本对（image-text-pair）数据集，共提供了 4 亿样本数据。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)]()
+[RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | 来自字节跳动的工程师在 GitHub 上开源了一项视频自动抠图技术，该技术引入了一种强大、实时、高分辨率的人物视频抠图方法，使用循环神经网络，在处理视频流时有时间记忆，可在任意视频上做实时高清抠像。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KzEoG7ZTy)
+[Kornia](https://github.com/kornia/kornia) | 一款基于 PyTorch 的可微分的计算机视觉库。可训练模型来执行图像变换、对极几何、深度估计和低级图像处理。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KzsdGBtxk)
+[Tangram（七巧板）](https://github.com/tangramdotdev/tangram) | 一个可帮助 AI 开发者快速训练、部署与监控机器学习模型的开源工具。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kys9JFyt1)
+[DataCLUE](https://github.com/CLUEbenchmark/DataCLUE) | 国内首个以数据为中心的 AI 测评（含模型分析报告），可通过系统化改造数据来提升模型效果。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KyhybxBYE)
+[Real-time Stock-market](https://github.com/victor369basu/Real-time-stock-market-prediction) | 作者尝试基于机器学习来进行股票市场预测。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KxdyHi36a)
+[PersonGraphDataSet](https://github.com/liuhuanyong/PersonGraphDataSet) | 一份开源的人物图谱数据集，收录了近十万的人物关系图谱事实数据库，通过人物关系抽取算法抽取 + 人工整理得出，可用于人物关系搜索、查询、人物关系多跳问答，以及人物关系推理等场景提供基础数据。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kw8obhjbN)
+[chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) | 一款超轻量级中文 OCR，支持竖排文字识别，总模型仅 4.7M。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvGiQvb5y)
+[SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) | 一个开源的深圳地铁大数据客流分析系统，主要通过分析深圳通刷卡数据，从大数据的技术角度来研究深圳地铁客运能力，探索深圳地铁优化服务的方向。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvpBOuFRz)
+[NARUTO-HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection) | 一个开源项目，可用于识别火影忍者中的结印手势。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KvnfItTfP)
+[BIFROST](https://datasets.bifrost.ai/) | 给从事 AI 开发的同学分享个数据集搜索神器，该网站当前共计拥有 1900 个数据集，提供人物、自动驾驶汽车、零售、无人机等六大类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kv4oHjlCU)
+[MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | 一个开源的 MLOps 基础教程，作者将通过 10 周的时间，带你了解 MLOps 的基础知识，如模型构建、监控、配置、测试、打包、部署、CI/CD（GitHub Actions）等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KuToMAN7b)
+[CompreFace](https://github.com/exadel-inc/CompreFace) | 一款开源的人脸识别与检测系统，不懂机器学习技术亦可使用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KuLxIbNeV)
+[pix2tex](https://github.com/lukas-blecher/LaTeX-OCR) | 一款开源的 LaTeX 代码识别系统，基于深度学习技术，快速识别数学公式的图像，并返回相应的 LaTeX 代码。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kub0Lur6c)
+[Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) | 一个基于深度学习的中文语音合成项目，通过采集分析一段具体的声音样本，可在 5 秒内生成与之类似的克隆语音。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ku8giFNOS)
+[AI_Tutorial](https://github.com/cbamls/AI_Tutorial) | 一个开源的 AI 学习资料库，主要整理了人工智能、机器学习、深度学习、搜索系统、推荐系统、广告系统等领域的学习资料。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KtLhAkezp)
+[Polaris](https://github.com/ChibaniMohamed/Polaris) | 一款开源的人脸考勤系统，集成了脸部识别技术，拥有颇具未来感的设计风格，可用于尝鲜。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KtIJhvPH0)
+[neural_network_papers](https://github.com/curryandsun/neural_network_papers) | 一份开源的 AI 论文笔记，主要记录作者读过的一些论文，给出个人对论文的评分情况并简述论文 insight。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KsvjjnWZg)
+[NLPDataSet](https://github.com/liucongg/NLPDataSet) | 国内一名开发者在 GitHub 开源了常用数据集，主要将多个网络数据集进行整理清洗，并将格式统一化。其主要目的，在于构建一个较完善的中文片段抽取式阅读理解数据集。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ks9HQvfzg)
+[Lite.AI](https://github.com/DefTruth/lite.ai) | 一个比较丰富的 C++ 库，里面收录了 60 多个实用的 AI 模型，其中包含对象检测、人脸检测、风格迁移、人脸识别、图像分割、图像分类等类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KrSqgjMNO)
+[AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) | 一个 AI 知识库，帮助开发者快速上手 AI 理论及应用实战：基础知识、机器学习、深度学习、自然语言处理 BERT，含大量注释及数据集，力求每一位能看懂并复现。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kq5Er9xsW)
+[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) | 一个 NLP 开源知识库，主要收录 NLP 竞赛经验贴、通用工具、学习资料等内容，覆盖文本分类、机器翻译、语义解析、实体识别等类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KpSiojUzt)
+[DouZero](https://github.com/kwai/DouZero) | 一个 AI 斗地主项目，基于深度学习与深度蒙特卡罗（DMC）算法构建，尝试让 AI 与人类博弈。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KlmdYpi0k)
 
 ### 有趣/实用网站
 
