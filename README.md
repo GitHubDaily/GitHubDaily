@@ -27,9 +27,9 @@
 
 除了 GitHub 之外，我们也开始在下面多个社交媒体平台，帮助开发者传播与分享优质开源项目，挖掘其未来的技术应用前景。
 
-如果你想接收最新的 GitHub 开源项目资讯，也可以关注一下。
+如果你想接收最新的 GitHub 开源项目资讯，可以关注一下👇
 
-- 公众号: [GitHubDaily](https://tva1.sinaimg.cn/large/007S8ZIlgy1geyb6wrwxgj3076076aa5.jpg)
+- 公众号: [GitHubDaily](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png)
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
 
