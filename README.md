@@ -1,25 +1,45 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png">
+</p>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png">
+  <a href="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png"><img src="https://img.shields.io/badge/ GitHubDaily-公众号-brightgreen.svg" alt="WeChat"></a>
+  <a href="https://weibo.com/GitHubDaily"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
+  <a href="https://www.zhihu.com/people/githubdaily"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
+  <a href="https://github.com/GitHubDaily/GitHubDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
 </p>
 
 ## 宗旨
 
-GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
+多年以前，我曾看到 GitHub 开源项目作者、全栈工程师 TJ Holowaychunk 说过这么一句话：
 
-- [历史文章精选](https://github.com/GitHubDaily/GitHubDaily/tree/master/articles)
+"I don't read books, never went to school, I just read other people's code and always wonder how things work"。
+
+从那时起，我便认为，通过阅读源码，站在前辈的角度上，去思考代码架构与程序逻辑，乃是提升编程技巧最好的方式。
+
+因此，GitHub 也自然而然的，成为我最喜爱的开发者平台。
+
+秉着挖掘开源价值的初衷，GitHubDaily 自 2015 年 10 月 10 日正式成立。
+
+我们希望能通过这一举措，帮助开发者们发现当下最火的开源项目，掌控最新技术动态, 扩大技术视野, 并从开源项目的学习中获得编程能力的提升。
+
+目前，GitHubDaily 已累积分享超过 3000 个开源项目，内容包括但不限于 GitHub 上的开源技术资料、开发者工具、编程网站以及成熟应用。
+
+除了 GitHub 之外，我们也开始在下面多个社交媒体平台，帮助开发者传播与分享优质开源项目，挖掘其未来的技术应用前景。
+
+如果你想接收最新的 GitHub 开源项目资讯，也可以关注一下。
+
 - 公众号: [GitHubDaily](https://tva1.sinaimg.cn/large/007S8ZIlgy1geyb6wrwxgj3076076aa5.jpg)
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
 
-> 欢迎到 [Issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，让更多人知道你的项目。
+> 有不错的开源项目，也欢迎到本仓库的 [issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，我们期待你的分享。
 
 ---
 
 ## 2021 年复盘
 
-下面是对 GitHubDaily 在 2021 年所发的微博进行分类整理，方便粉丝们查找以往分享过的内容。
+下面是对 GitHubDaily 在 2021 年所推荐的项目进行分类整理，方便大家查找以往分享过的内容。
 
 > 过往复盘 [2020](https://github.com/GitHubDaily/GitHubDaily/blob/master/2020.md)，[2019](https://github.com/GitHubDaily/GitHubDaily/blob/master/2019.md)，[2018](https://github.com/GitHubDaily/GitHubDaily/blob/master/2018.md)
 
@@ -595,5 +615,5 @@ GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给
 [Superset](https://github.com/apache/superset) | 数据可视化及数据探索平台，提供了多种可视化模板及交互式仪表，用于更为清晰的展示数据；自带 SQL IDE，可让用户更好的操作数据；API 开放且灵活，可定制性高。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JFe5WqTXM)
 
 ## 声明
-[![](https://licensebuttons.net/l/by-nc-nd/2.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)  
-本作品采用[知识共享署名-非商业性使用-禁止演绎 2.0 通用许可协议](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.zh)进行许可。
+[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
+本作品采用[知识共享署名-非商业性使用-禁止演绎 4.0 通用许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。
