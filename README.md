@@ -47,6 +47,7 @@
 
 - [Java](#java)
 - [Python](#python)
+- [C/C++](#C)
 - [Go](#go)
 - [前端](#前端)
 - [移动端](#移动端)
@@ -107,7 +108,16 @@
 [Gooey](https://github.com/chriskiehl/Gooey) | 一款可直接将 Python 命令行工具转为 GUI 应用的开源程序，优化用户体验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KkoUw4rZu)
 [Ryven](https://github.com/leon-thomm/Ryven) | 一个 Python 脚本可视化工具，该工具支持通过编辑节点来控制 Python 脚本，让开发者可以更为直观的感受脚本的执行过程与输出结果。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JEV6PtlML)
 
+
+### C
+
+名称 | 简述 | 源
+---- | ----- | -----
+[CppMaster](https://github.com/Charmve/CppMaster) | C++ Master Learning Roadmap, specially for AIoT and C++ advanced SDE | [![](https://img.icons8.com/material-sharp/24/000000/github.png)](https://github.com/Charmve/CppMaster)
+
+
 ### Go
+
 名称 | 简述 | 源
 ---- | ----- | -----
 [Zinc](https://github.com/prabhatsharma/zinc) | 一款基于 Go 语言开发的搜索引擎，可用于替代 elasticsearch，提供了全文索引、单个二进制文件安装和运行、开箱即用的身份验证等功能，兼容 Elasticsearch API，自带可用于查询数据的 Web UI。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L7TdJaBql)
@@ -560,6 +570,7 @@
 [AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) | 一个 AI 知识库，帮助开发者快速上手 AI 理论及应用实战：基础知识、机器学习、深度学习、自然语言处理 BERT，含大量注释及数据集，力求每一位能看懂并复现。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kq5Er9xsW)
 [NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) | 一个 NLP 开源知识库，主要收录 NLP 竞赛经验贴、通用工具、学习资料等内容，覆盖文本分类、机器翻译、语义解析、实体识别等类别。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KpSiojUzt)
 [DouZero](https://github.com/kwai/DouZero) | 一个 AI 斗地主项目，基于深度学习与深度蒙特卡罗（DMC）算法构建，尝试让 AI 与人类博弈。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/KlmdYpi0k)
+[computer-vision-in-action](https://charmve.github.io/computer-vision-in-action/ ) | 一种结合了代码、图示和HTML的闭环在线学习媒介 | [![](https://img.icons8.com/material-sharp/24/000000/github.png)](https://github.com/Charmve/computer-vision-in-action)
 
 ### 有趣/实用网站
 
