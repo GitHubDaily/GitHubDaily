@@ -614,6 +614,10 @@
 [rose-pine-matplotlib](https://github.com/h4pZ/rose-pine-matplotlib) | 一款主打「优雅极简主义风」的 Matplotlib 主题样式。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Kim4l37Id)
 [Superset](https://github.com/apache/superset) | 数据可视化及数据探索平台，提供了多种可视化模板及交互式仪表，用于更为清晰的展示数据；自带 SQL IDE，可让用户更好的操作数据；API 开放且灵活，可定制性高。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/JFe5WqTXM)
 
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GitHubDaily/GitHubDaily&type=Date)](https://star-history.com/#GitHubDaily/GitHubDaily&Date)
+
 ## 声明
 [![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
 本作品采用[知识共享署名-非商业性使用-禁止演绎 4.0 通用许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。
