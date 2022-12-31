@@ -54,8 +54,8 @@
   - [工具](#工具)
   - [插件](#插件)
   - [资料集合](#资料集合)
-  - [开源书籍教程](#开源书籍教程)
-  - [机器学习人工智能](#机器学习人工智能)
+  - [书籍/教程](#书籍教程)
+  - [机器学习/人工智能](#机器学习人工智能)
   - [开源字体](#开源字体)
   - [其他](#其他)
 - [声明](#声明)
@@ -353,7 +353,7 @@
 [《深度学习 500 问》](https://github.com/shliang0603/Awesome-DeepLearning-500FAQ) | 国内开发者整理的一份 AI 学习资源，内容以问答形式，对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助有需要的读者。全书分为 18 个章节，50 余万字。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/La5UToCva)
 
 
-### 开源书籍教程
+### 书籍/教程
 
 名称 | 简述 | 源
 ---- | ----- | -----
@@ -439,7 +439,7 @@
 [《开源软件指南》](https://github.com/github/opensource.guide) | GitHub 官方发布的一套技术文档：《开源软件指南》，有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/L9dI2pSpQ)
 
 
-### 机器学习人工智能
+### 机器学习/人工智能
 
 名称 | 简述 | 源
 ---- | ----- | -----
