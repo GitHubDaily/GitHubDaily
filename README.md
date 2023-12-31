@@ -48,15 +48,31 @@
 - [宗旨](#宗旨)
 - [2023 年复盘](#2023-年复盘)
   - [目录](#目录)
+  - [AI 绘画](#ai-绘画)
   - [AIGC](#aigc)
   - [AI 工具](#ai-工具)
-  - [AI 绘画](#ai-绘画)
   - [实用工具](#实用工具)
   - [插件](#插件)
   - [资料集合](#资料集合)
   - [书籍/教程](#书籍教程)
   - [其他](#其他)
 - [声明](#声明)
+
+
+### AI 绘画
+
+名称 | 简述 | 源
+---- | ----- | -----
+[Stable Diffusion Cheat-Sheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) | Stable Diffusion 开源速查表，里面拥有超过 700 种经过测试的艺术风格，可快速搜索查找各类艺术家，并支持一键复制 Prompt。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N3Qqdubhy)
+[StableStudio](https://github.com/Stability-AI/StableStudio) | 人手一个 Midjourney，Stability AI 开源的 AI 图像生成平台 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N14VOFWKZ)
+[Roop](https://github.com/s0md3v/roop) | 一键实现 AI 换脸，仅需一张换脸图像，无需数据集，无需训练，自带敏感图像检测功能。| [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N63U7sEzT)
+[pixian.ai](https://pixian.ai/) | 能够利用 AI 一键移除各种图像背景，并支持在线调整图片分辨率、背景颜色等等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N5hJ6bIQ5)
+[Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) | 一个 AI 图像编辑工具，支持一键擦除、替换图像中的指定物品，通过提示词来自动更换背景图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MCqg6oZvy)
+[Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything) | 一个图像分割模型，可自动分割图片或视频中的所有物品，一键完成自动分割，并支持零样本转移到其他分割任务。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MAGpKkHqx)
+[Docker 作图咒语生成器](https://github.com/soulteary/docker-prompt-generator) | 支持一键从图片中解析出 Prompt 描述，并能够基于描述进行扩展，以便二次图片生成。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MBvFcy0Mp)
+[Plask.ai](https://plask.ai/) | 一个 AI 工具，可以通过 3D 建模，直接生成模特效果图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MB4AHhvIU)
+[MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) | 收录了很多实用的 Midjourney 提示词，包括图像风格样式关键词、分辨率、图像权重等，帮助你更好的完成 AI 绘画。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MyT4yjBL3)
+[roomGPT](https://github.com/Nutlope/roomGPT) | 只需上传一张房间照片，即可用 AI 生成对应的梦幻房间效果图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MwcUOvhgh)
 
 
 ### AIGC
@@ -143,22 +159,6 @@
 [ChatPDF](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Myukg0Qdo)
 [GitHub Copilot X](https://githubdaily.gitee.io/posts/2023-03-23-github-copilot-x/) | 一款基于 AI 驱动的、跨时代代码编辑器，将为开发者带来前所未有的编程体验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MyyfNDa5k)
 [OpenGpt](https://github.com/futantan/OpenGpt) | 一个可以让你快速尝试各种 ChatGPT 应用的开源项目，借助这个项目，你还能在几秒钟内创建属于自己的应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Mxwe66eAv)
-
-
-### AI 绘画
-
-名称 | 简述 | 源
----- | ----- | -----
-[Stable Diffusion Cheat-Sheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) | Stable Diffusion 开源速查表，里面拥有超过 700 种经过测试的艺术风格，可快速搜索查找各类艺术家，并支持一键复制 Prompt。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N3Qqdubhy)
-[StableStudio](https://github.com/Stability-AI/StableStudio) | 人手一个 Midjourney，Stability AI 开源的 AI 图像生成平台 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N14VOFWKZ)
-[Roop](https://github.com/s0md3v/roop) | 一键实现 AI 换脸，仅需一张换脸图像，无需数据集，无需训练，自带敏感图像检测功能。| [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N63U7sEzT)
-[pixian.ai](https://pixian.ai/) | 能够利用 AI 一键移除各种图像背景，并支持在线调整图片分辨率、背景颜色等等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/N5hJ6bIQ5)
-[Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) | 一个 AI 图像编辑工具，支持一键擦除、替换图像中的指定物品，通过提示词来自动更换背景图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MCqg6oZvy)
-[Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything) | 一个图像分割模型，可自动分割图片或视频中的所有物品，一键完成自动分割，并支持零样本转移到其他分割任务。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MAGpKkHqx)
-[Docker 作图咒语生成器](https://github.com/soulteary/docker-prompt-generator) | 支持一键从图片中解析出 Prompt 描述，并能够基于描述进行扩展，以便二次图片生成。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MBvFcy0Mp)
-[Plask.ai](https://plask.ai/) | 一个 AI 工具，可以通过 3D 建模，直接生成模特效果图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MB4AHhvIU)
-[MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) | 收录了很多实用的 Midjourney 提示词，包括图像风格样式关键词、分辨率、图像权重等，帮助你更好的完成 AI 绘画。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MyT4yjBL3)
-[roomGPT](https://github.com/Nutlope/roomGPT) | 只需上传一张房间照片，即可用 AI 生成对应的梦幻房间效果图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MwcUOvhgh)
 
 
 ### 实用工具
