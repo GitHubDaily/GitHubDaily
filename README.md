@@ -158,7 +158,8 @@
 [飞书 GPT](https://github.com/Leizhenpeng/feishu-chatgpt) | 集成了飞书 + GPT-3.5 + Dall·E + Whisper 等 API，支持语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MyDKKgfTp)
 [ChatPDF](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 它可以提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Myukg0Qdo)
 [GitHub Copilot X](https://githubdaily.gitee.io/posts/2023-03-23-github-copilot-x/) | 一款基于 AI 驱动的、跨时代代码编辑器，将为开发者带来前所未有的编程体验。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/MyyfNDa5k)
-[OpenGpt](https://github.com/futantan/OpenGpt) | 一个可以让你快速尝试各种 ChatGPT 应用的开源项目，借助这个项目，你还能在几秒钟内创建属于自己的应用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Mxwe66eAv)
+[OpenGpt](https://github.com/futantan/OpenGpt) | 一个可以让你快速尝试各种 ChatGPT 应用的开源项目，借助这个项目，你还能在几秒钟内创建属于自己的应用。 | [![]
+[Tune AI](https://chat.tune.app) | AI chat app powered by open source models | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Mxwe66eAv)
 
 
 ### 实用工具
