@@ -49,12 +49,12 @@
 - [2024 年复盘](#2024-年复盘)
   - [目录](#目录)
   - [AI 技术](#ai-技术)
-  - [免费书籍](#免费书籍)
   - [AI 工具](#ai-工具)
+  - [免费书籍](#免费书籍)
   - [学习教程](#学习教程)
   - [实用工具](#实用工具)
-  - [资料集合](#资料集合)
   - [实用插件](#实用插件)
+  - [资料集合](#资料集合)
   - [其他](#其他)
 - [声明](#声明)
 
@@ -69,24 +69,6 @@
 [SwiftInfer](https://github.com/hpcaitech/SwiftInfer) | 一款基于 TensorRT 实现的 StreamingLLM 推理加速框架，可提升大模型推理性能 46 %，为多轮对话推理提供高效可靠的落地方案。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAS7K9B1u)
 [Audio2PhotoReal](https://github.com/facebookresearch/audio2photoreal) | 一项由 Meta AI 发布的新技术，能够通过音频驱动生成全身逼真的虚拟人物对话，包括动作、表情和多人对话等，可广泛应用于虚拟现实、影视制作等领域。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAqwLvBIV)
 [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 一项由 MyShell 团队开发的多功能即时声音克隆技术，只需提供简短音频样本，即可克隆原发言者的声音，生成多种语言语音，支持高精度音色克隆、灵活的声音风格调控以及无需样本的跨语言声音克隆。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAiw7rRNh)
-
-
-### 免费书籍
-
-项目 | 简述 | 源
----- | ----- | -----
-[Large Language Model in Action](https://github.com/wangwei1237/LLM_in_Action) | 一本专注于大语言模型实践应用的开源书籍，通过介绍工具和案例实践，帮助读者快速上手大模型应用开发。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P63IAy7du)
-[Select Star SQL](https://无) | 一本免费的互动式学习 SQL 书籍，共五章内容，每章约 30 分钟，涵盖行操作、分组聚合、表连接等主题，结合实际案例学习。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OCnwbDxHU)
-[The Little Book of ML Metrics](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) | 一本面向数据科学家的开源免费书籍，涵盖广泛的机器学习指标，包括回归、分类、聚类、排行、计算机视觉和自然语言处理等领域，旨在成为数据科学家的快速参考手册。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OBxRDpUiz)
-[Linux From Scratch 中文翻译版](https://lfs.xry111.site/zh_CN/12.2/index.html) | 一本免费的在线书籍，教授从源代码开始构建整个 Linux 系统的过程，深入了解 Linux 工作原理，支持个性化定制和优化，提高系统安全性，通过实践获得 Linux 系统的深刻理解。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OAJjE4NxJ)
-[Hands-On Large Language Models](https://github.com/handsOnLLM/Hands-On-Large-Language-Models) | 一本由吴恩达老师推荐的关于大语言模型的实践指南书籍，涵盖语言模型基础知识、文本分类、提示工程、语义搜索、多模态语言模型等内容，配有案例代码、插图和引用论文，帮助读者深入理解和使用大语言模型。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OxSqEpjmb)
-[计算机体系结构基础（第三版）](https://foxsen.github.io/archbase/index.html) | 一本由"龙芯之父"胡伟武老师等编写的开源免费在线书籍，涵盖指令系统结构、计算机硬件结构、CPU 微结构、并行处理结构、计算机性能分析等内容，适合本科生、研究生和技术人员学习参考。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OvI5Adb3R)
-[Decision Making Under Uncertainty](http://t.cn/R7cZfp3) | 一本由麻省理工学院出品的免费电子书，涵盖概率推理、序列决策问题、模型/状态不确定性以及多 Agent 系统等内容，使用大量示例和练习帮助读者理解不同算法的直觉和应用场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OsEapfo3p)
-[Grammar Club](https://github.com/llwslc/grammar-club) | 一本开源且免费的在线英语语法学习书籍，采用循序渐进的方式，从初级到高级分为三大篇幅，涵盖简单句、复句、合句和简化从句等内容，旨在培养英语能力、建立信心并增强阅读兴趣。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oq5hdAmUT)
-[《理解深度学习》中文版](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) | 一本由麻省理工开源的深度学习教材中文版，全面涵盖深度学习基础概念、监督学习、强化学习等内容，并提供 PPT、笔记和 Python 练习 Demo。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OoxD0vPwf)
-[Understanding Deep Learning](https://github.com/udlbook/udlbook) | 一本来自麻省理工的开源书籍，全面涵盖了深度学习的基础概念、监督学习、强化学习、线性回归、神经网络、扩散模型等内容。该书提供了 PPT、笔记和 68 个 Python 练习 Demo 供学习和实践。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oml7ZfYGb)
-[Python Guide for JavaScript Engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers) | 一本面向 JavaScript 工程师的 Python 学习指南，由一名前端工程师编写，系统介绍了 Python 环境搭建、项目开发等内容，并对比了 JavaScript 和 Python 的异同，帮助 JavaScript 工程师快速掌握 Python 语言。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Om6N3uysr)
-[深入超高可用架构原理与实践](https://github.com/isno/theByteBook) | 一本开源的架构设计书籍，涵盖云计算、网络、分布式系统、容器技术、可观测性、服务网格、DevOps 等主题，帮助程序员深入理解相关技术的原理与实践。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OlzWze7Y2)
 
 
 ### AI 工具
@@ -261,6 +243,24 @@
 [Jan](https://github.com/janhq/jan) | 一款开源的本地 AI 工具，可无需编码运行主流大语言模型如 Mistral、Llama、Mixtral 等，支持 Windows、Mac 和 Linux 系统，拥有简洁美观的 UI 界面。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NB2WZDMgy)
 [Mobile ALOHA](nan) | 一款多功能家务机器人，可以帮助浇花、拖地、做饭、逗猫、扔垃圾、洗衣服、铺床单、整理衣物等家务活动，具有模仿学习和远程操作功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAqQMF5ST)
 [Auto Job Find Assistant](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) | 一款结合 GPT 和 RPA 技术的自动投简历助手，可根据个人简历和职位要求自动匹配合适的工作机会，生成自我介绍和求职信，并自动发送给 HR，实现一键寻找工作的全流程自动化。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAimK7naB)
+
+
+### 免费书籍
+
+项目 | 简述 | 源
+---- | ----- | -----
+[Large Language Model in Action](https://github.com/wangwei1237/LLM_in_Action) | 一本专注于大语言模型实践应用的开源书籍，通过介绍工具和案例实践，帮助读者快速上手大模型应用开发。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P63IAy7du)
+[Select Star SQL](https://无) | 一本免费的互动式学习 SQL 书籍，共五章内容，每章约 30 分钟，涵盖行操作、分组聚合、表连接等主题，结合实际案例学习。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OCnwbDxHU)
+[The Little Book of ML Metrics](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) | 一本面向数据科学家的开源免费书籍，涵盖广泛的机器学习指标，包括回归、分类、聚类、排行、计算机视觉和自然语言处理等领域，旨在成为数据科学家的快速参考手册。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OBxRDpUiz)
+[Linux From Scratch 中文翻译版](https://lfs.xry111.site/zh_CN/12.2/index.html) | 一本免费的在线书籍，教授从源代码开始构建整个 Linux 系统的过程，深入了解 Linux 工作原理，支持个性化定制和优化，提高系统安全性，通过实践获得 Linux 系统的深刻理解。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OAJjE4NxJ)
+[Hands-On Large Language Models](https://github.com/handsOnLLM/Hands-On-Large-Language-Models) | 一本由吴恩达老师推荐的关于大语言模型的实践指南书籍，涵盖语言模型基础知识、文本分类、提示工程、语义搜索、多模态语言模型等内容，配有案例代码、插图和引用论文，帮助读者深入理解和使用大语言模型。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OxSqEpjmb)
+[计算机体系结构基础（第三版）](https://foxsen.github.io/archbase/index.html) | 一本由"龙芯之父"胡伟武老师等编写的开源免费在线书籍，涵盖指令系统结构、计算机硬件结构、CPU 微结构、并行处理结构、计算机性能分析等内容，适合本科生、研究生和技术人员学习参考。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OvI5Adb3R)
+[Decision Making Under Uncertainty](http://t.cn/R7cZfp3) | 一本由麻省理工学院出品的免费电子书，涵盖概率推理、序列决策问题、模型/状态不确定性以及多 Agent 系统等内容，使用大量示例和练习帮助读者理解不同算法的直觉和应用场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OsEapfo3p)
+[Grammar Club](https://github.com/llwslc/grammar-club) | 一本开源且免费的在线英语语法学习书籍，采用循序渐进的方式，从初级到高级分为三大篇幅，涵盖简单句、复句、合句和简化从句等内容，旨在培养英语能力、建立信心并增强阅读兴趣。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oq5hdAmUT)
+[《理解深度学习》中文版](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) | 一本由麻省理工开源的深度学习教材中文版，全面涵盖深度学习基础概念、监督学习、强化学习等内容，并提供 PPT、笔记和 Python 练习 Demo。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OoxD0vPwf)
+[Understanding Deep Learning](https://github.com/udlbook/udlbook) | 一本来自麻省理工的开源书籍，全面涵盖了深度学习的基础概念、监督学习、强化学习、线性回归、神经网络、扩散模型等内容。该书提供了 PPT、笔记和 68 个 Python 练习 Demo 供学习和实践。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oml7ZfYGb)
+[Python Guide for JavaScript Engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers) | 一本面向 JavaScript 工程师的 Python 学习指南，由一名前端工程师编写，系统介绍了 Python 环境搭建、项目开发等内容，并对比了 JavaScript 和 Python 的异同，帮助 JavaScript 工程师快速掌握 Python 语言。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Om6N3uysr)
+[深入超高可用架构原理与实践](https://github.com/isno/theByteBook) | 一本开源的架构设计书籍，涵盖云计算、网络、分布式系统、容器技术、可观测性、服务网格、DevOps 等主题，帮助程序员深入理解相关技术的原理与实践。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OlzWze7Y2)
 
 
 ### 学习教程
@@ -440,6 +440,31 @@
 [movie-web](https://github.com/movie-web/movie-web) | 一个极简且易用的开源电影网站，支持搜索和在线观看电影，具有自动保存播放进度、收藏电影、界面简洁、搜索响应快等特点。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NzZ064MGc)
 [Spotube](https://github.com/KRTirtho/spotube) | 一款开源的跨平台 Spotify 客户端，无需付费订阅，支持离线播放、歌词同步等功能，注重隐私且体验流畅。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NzXjp0nQ2)
 
+
+### 实用插件
+
+项目 | 简述 | 源
+---- | ----- | -----
+[FastURL](https://github.com/fatwang2/fasturl) | 一款实用的开源 Chrome 插件，可以在任何输入框中通过快捷键粘贴网页正文的 Markdown 格式内容，支持清理广告和导航栏等多余内容，同时保留标题、列表、链接等 HTML 元素，操作在本地浏览器完成，速度快且数据安全。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P6MuStfEh)
+[WebChat](https://github.com/molvqingtai/WebChat) | 一款去中心化、无服务器的匿名聊天浏览器插件，利用 WebRTC 端到端加密技术，所有聊天数据保存在本地，确保安全隐私。无需注册，可在任何网站一键开启与他人聊天，适合即时交流需求场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P6tDSAbN6)
+[Screenity](https://github.com/alyssaxuu/screenity) | 一款功能强大的 Chrome 录屏插件，支持屏幕任意位置录制、标注、录音，可导出多种视频格式并进行简单编辑。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OFMEtmh5N)
+[Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter) | 一款开源的 Chrome 插件，支持下载和复制飞书文档为 Markdown 格式，兼容多种元素如标题、代码块、列表、表格、图片等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OBDKWvEFL)
+[uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) | 一份综合性的 AI 内容过滤列表，包含约 950 个网站，可用于 uBlock Origin 和 uBlacklist，主要目的是清理 Google Search、DuckDuckGo 和 Bing 等图像搜索引擎中的 AI 生成内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OARfelVoz)
+[Luxirty Search](https://github.com/KoriIku/luxirty-search) | 一款基于 Google 的开源搜索引擎插件，屏蔽内容农场、无广告、无跟踪、界面简洁，提升 GitHub、StackOverflow 等技术社区的搜索权重。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OAMJ9hK8F)
+[materialYouNewTab](https://github.com/XengShi/materialYouNewTab) | 一款采用 Google Material You 设计风格的浏览器主页插件，提供自定义搜索引擎、快捷网站图标、主题切换等功能，无需权限即可使用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OA1AFjrwW)
+[visual-try-on](https://github.com/shyjal/visual-try-on) | 一款基于快手 Kolors 图像模型开发的 Chrome 浏览器插件，可在任何电商网站上上传自己的照片，一键试穿喜欢的衣服。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OvB1cySwr)
+[code-box](https://github.com/027xiguapi/code-box) | 一款开源免费的浏览器插件，适用于主流技术社区网站，提供一键复制代码、阅读全文和去除登录弹窗等实用功能，为技术开发者提供便利。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OsYoDBw9t)
+[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb) | 一款开源插件，能够将 ComfyUI 工作流转换成小程序，支持主流平台和支付变现功能，方便将现有工作流推广到更广阔的市场。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Os3PF1Qsz)
+[vscode-drawio](https://github.com/hediet/vscode-drawio) | 一款将 draw . io 集成到 VSCode 的插件，让开发者能够在 VSCode 中快速绘制流程图、思维导图或 UML 类图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Op1sZlgfA)
+[Aide](https://github.com/nicepkg/aide) | 一款实用的 AI 编程助手 VSCode 扩展，为现有编程助手（如 Copilot、CodegeeX 或 Codeium 等）提供功能补充，让开发者能更高效地编程。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ooz0foptK)
+[Reborn AI](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) | 一款开源的 VSCode 插件，能够帮助编写、重构和改进代码，支持多种语言模型和语种，包括中文和英文等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Olf5PnSjv)
+[gh-dash](https://github.com/dlvhdr/gh-dash) | 一款高颜值的 GitHub CLI 扩展，以仪表板形式展示 GitHub 项目的拉取请求和问题信息，支持搜索、过滤、操作等丰富功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OgxI3eTqk)
+[cat-catch (猫抓)](https://github.com/xifangczy/cat-catch) | 一款开源免费的网页资源嗅探插件，能够筛选列出当前页面的资源，提供嗅探、缓存捕捉、视频录制等工具帮助抓取资源，支持自定义抓取资源类型。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OewNznNwZ)
+[Responsive Viewer](https://github.com/skmail/responsive-viewer) | 一款开源的 Chrome 浏览器插件，可以在一个界面中同时展示多个屏幕尺寸，方便前端开发者测试响应式网站或应用在不同设备尺寸下的显示效果，提供多种设备尺寸选择、横竖屏显示和一键截图分享等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/ObwBFa78o)
+[kiss-translator](https://github.com/fishjar/kiss-translator) | 一款简约且好用的双语对照翻译插件和油猴脚本，支持多种浏览器和翻译服务，提供网页双语对照翻译、输入框翻译、YouTube 字幕翻译等功能，支持自定义翻译规则、译文样式和快捷键。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oa8MjtHIr)
+[Stellar](https://github.com/xaoxuu/hexo-theme-stellar) | 一款内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件，可帮助简单应对各种表达需求。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/O7fGfAZcH)
+
+
 ### 资料集合
 
 项目 | 简述 | 源
@@ -498,30 +523,6 @@
 [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) | 一份精心整理的数据库学习合集，涵盖课程、书籍、讲座、论文等数据库相关学习资料，帮助了解数据库内部工作原理。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NCg9h4lyk)
 [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | 一份对《给每个人的线性代数》书籍的图解笔记，通过可视化图释帮助理解矩阵分解、向量、矩阵计算和算法，提供中英日三种语言笔记。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Op9kZlucP)
 [Gemini API Cookbook](https://github.com/google-gemini/gemini-api-cookbook) | 一份由 Google 在 GitHub 上分享的 Gemini API 学习手册，旨在帮助开发者更好地理解和使用 Gemini API，包括使用指南、快速入门教程和示例项目。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/O6EVM2ZlG)
-
-
-### 实用插件
-
-项目 | 简述 | 源
----- | ----- | -----
-[FastURL](https://github.com/fatwang2/fasturl) | 一款实用的开源 Chrome 插件，可以在任何输入框中通过快捷键粘贴网页正文的 Markdown 格式内容，支持清理广告和导航栏等多余内容，同时保留标题、列表、链接等 HTML 元素，操作在本地浏览器完成，速度快且数据安全。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P6MuStfEh)
-[WebChat](https://github.com/molvqingtai/WebChat) | 一款去中心化、无服务器的匿名聊天浏览器插件，利用 WebRTC 端到端加密技术，所有聊天数据保存在本地，确保安全隐私。无需注册，可在任何网站一键开启与他人聊天，适合即时交流需求场景。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/P6tDSAbN6)
-[Screenity](https://github.com/alyssaxuu/screenity) | 一款功能强大的 Chrome 录屏插件，支持屏幕任意位置录制、标注、录音，可导出多种视频格式并进行简单编辑。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OFMEtmh5N)
-[Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter) | 一款开源的 Chrome 插件，支持下载和复制飞书文档为 Markdown 格式，兼容多种元素如标题、代码块、列表、表格、图片等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OBDKWvEFL)
-[uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) | 一份综合性的 AI 内容过滤列表，包含约 950 个网站，可用于 uBlock Origin 和 uBlacklist，主要目的是清理 Google Search、DuckDuckGo 和 Bing 等图像搜索引擎中的 AI 生成内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OARfelVoz)
-[Luxirty Search](https://github.com/KoriIku/luxirty-search) | 一款基于 Google 的开源搜索引擎插件，屏蔽内容农场、无广告、无跟踪、界面简洁，提升 GitHub、StackOverflow 等技术社区的搜索权重。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OAMJ9hK8F)
-[materialYouNewTab](https://github.com/XengShi/materialYouNewTab) | 一款采用 Google Material You 设计风格的浏览器主页插件，提供自定义搜索引擎、快捷网站图标、主题切换等功能，无需权限即可使用。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OA1AFjrwW)
-[visual-try-on](https://github.com/shyjal/visual-try-on) | 一款基于快手 Kolors 图像模型开发的 Chrome 浏览器插件，可在任何电商网站上上传自己的照片，一键试穿喜欢的衣服。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OvB1cySwr)
-[code-box](https://github.com/027xiguapi/code-box) | 一款开源免费的浏览器插件，适用于主流技术社区网站，提供一键复制代码、阅读全文和去除登录弹窗等实用功能，为技术开发者提供便利。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OsYoDBw9t)
-[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb) | 一款开源插件，能够将 ComfyUI 工作流转换成小程序，支持主流平台和支付变现功能，方便将现有工作流推广到更广阔的市场。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Os3PF1Qsz)
-[vscode-drawio](https://github.com/hediet/vscode-drawio) | 一款将 draw . io 集成到 VSCode 的插件，让开发者能够在 VSCode 中快速绘制流程图、思维导图或 UML 类图。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Op1sZlgfA)
-[Aide](https://github.com/nicepkg/aide) | 一款实用的 AI 编程助手 VSCode 扩展，为现有编程助手（如 Copilot、CodegeeX 或 Codeium 等）提供功能补充，让开发者能更高效地编程。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Ooz0foptK)
-[Reborn AI](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) | 一款开源的 VSCode 插件，能够帮助编写、重构和改进代码，支持多种语言模型和语种，包括中文和英文等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Olf5PnSjv)
-[gh-dash](https://github.com/dlvhdr/gh-dash) | 一款高颜值的 GitHub CLI 扩展，以仪表板形式展示 GitHub 项目的拉取请求和问题信息，支持搜索、过滤、操作等丰富功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OgxI3eTqk)
-[cat-catch (猫抓)](https://github.com/xifangczy/cat-catch) | 一款开源免费的网页资源嗅探插件，能够筛选列出当前页面的资源，提供嗅探、缓存捕捉、视频录制等工具帮助抓取资源，支持自定义抓取资源类型。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OewNznNwZ)
-[Responsive Viewer](https://github.com/skmail/responsive-viewer) | 一款开源的 Chrome 浏览器插件，可以在一个界面中同时展示多个屏幕尺寸，方便前端开发者测试响应式网站或应用在不同设备尺寸下的显示效果，提供多种设备尺寸选择、横竖屏显示和一键截图分享等功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/ObwBFa78o)
-[kiss-translator](https://github.com/fishjar/kiss-translator) | 一款简约且好用的双语对照翻译插件和油猴脚本，支持多种浏览器和翻译服务，提供网页双语对照翻译、输入框翻译、YouTube 字幕翻译等功能，支持自定义翻译规则、译文样式和快捷键。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oa8MjtHIr)
-[Stellar](https://github.com/xaoxuu/hexo-theme-stellar) | 一款内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件，可帮助简单应对各种表达需求。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/O7fGfAZcH)
 
 
 ### 其他
