@@ -7,6 +7,7 @@
   <a href="https://weibo.com/GitHubDaily"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
   <a href="https://www.zhihu.com/people/githubdaily"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
   <a href="https://github.com/GitHubDaily/GitHubDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
+  <a href="https://x.com/intent/follow?screen_name=GitHub_Daily"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GitHub_Daily"></a>
 </p>
 
 ## 宗旨
@@ -23,7 +24,7 @@
 
 我们希望能通过这一举措，帮助开发者们发现当下最火的开源项目，掌控最新技术动态, 扩大技术视野, 并从开源项目的学习中获得编程能力的提升。
 
-目前，GitHubDaily 已累积分享超过 3000 个开源项目，内容包括但不限于 GitHub 上的开源技术资料、开发者工具、编程网站以及成熟应用。
+目前，GitHubDaily 已累积分享超过 8000 个开源项目，内容包括但不限于 GitHub 上的开源技术资料、开发者工具、编程网站以及成熟应用。
 
 除了 GitHub 之外，我们也开始在下面多个社交媒体平台，帮助开发者传播与分享优质开源项目，挖掘其未来的技术应用前景。
 
@@ -32,6 +33,7 @@
 - 公众号: [GitHubDaily](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png)
 - 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
 - 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
+- X (Twitter)：[@GitHubDaily](https://x.com/intent/follow?screen_name=GitHub_Daily)
 
 > 有不错的开源项目，也欢迎到本仓库的 [issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，我们期待你的分享。
 
