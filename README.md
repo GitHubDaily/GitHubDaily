@@ -6,8 +6,8 @@
   <a href="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png"><img src="https://img.shields.io/badge/ GitHubDaily-公众号-brightgreen.svg" alt="WeChat"></a>
   <a href="https://weibo.com/GitHubDaily"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
   <a href="https://www.zhihu.com/people/githubdaily"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
-  <a href="https://github.com/GitHubDaily/GitHubDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
   <a href="https://x.com/intent/follow?screen_name=GitHub_Daily"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GitHub_Daily"></a>
+  <a href="https://github.com/GitHubDaily/GitHubDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
 </p>
 
 ## 宗旨
@@ -72,6 +72,9 @@
 [Audio2PhotoReal](https://github.com/facebookresearch/audio2photoreal) | 一项由 Meta AI 发布的新技术，能够通过音频驱动生成全身逼真的虚拟人物对话，包括动作、表情和多人对话等，可广泛应用于虚拟现实、影视制作等领域。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAqwLvBIV)
 [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 一项由 MyShell 团队开发的多功能即时声音克隆技术，只需提供简短音频样本，即可克隆原发言者的声音，生成多种语言语音，支持高精度音色克隆、灵活的声音风格调控以及无需样本的跨语言声音克隆。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAiw7rRNh)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### AI 工具
 
@@ -246,6 +249,9 @@
 [Mobile ALOHA](nan) | 一款多功能家务机器人，可以帮助浇花、拖地、做饭、逗猫、扔垃圾、洗衣服、铺床单、整理衣物等家务活动，具有模仿学习和远程操作功能。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAqQMF5ST)
 [Auto Job Find Assistant](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) | 一款结合 GPT 和 RPA 技术的自动投简历助手，可根据个人简历和职位要求自动匹配合适的工作机会，生成自我介绍和求职信，并自动发送给 HR，实现一键寻找工作的全流程自动化。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NAimK7naB)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 免费书籍
 
@@ -264,6 +270,9 @@
 [Python Guide for JavaScript Engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers) | 一本面向 JavaScript 工程师的 Python 学习指南，由一名前端工程师编写，系统介绍了 Python 环境搭建、项目开发等内容，并对比了 JavaScript 和 Python 的异同，帮助 JavaScript 工程师快速掌握 Python 语言。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Om6N3uysr)
 [深入超高可用架构原理与实践](https://github.com/isno/theByteBook) | 一本开源的架构设计书籍，涵盖云计算、网络、分布式系统、容器技术、可观测性、服务网格、DevOps 等主题，帮助程序员深入理解相关技术的原理与实践。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OlzWze7Y2)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 学习教程
 
@@ -304,6 +313,9 @@
 [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 一份系统化的英语学习指南，包含认知、单词、听力、阅读、口语、写作和扯淡等七大章节，旨在帮助用户高效提升英语水平。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NDhArlM4d)
 [Docker 从入门到实践](https://github.com/yeasy/docker_practice) | 一份全面的 Docker 学习指南，涵盖了 Docker 的基础知识、安装、镜像使用、容器操作、数据管理、网络配置等内容，旨在教会新手有效使用 Docker。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NCpzLCrZj)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 实用工具
 
@@ -442,6 +454,9 @@
 [movie-web](https://github.com/movie-web/movie-web) | 一个极简且易用的开源电影网站，支持搜索和在线观看电影，具有自动保存播放进度、收藏电影、界面简洁、搜索响应快等特点。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NzZ064MGc)
 [Spotube](https://github.com/KRTirtho/spotube) | 一款开源的跨平台 Spotify 客户端，无需付费订阅，支持离线播放、歌词同步等功能，注重隐私且体验流畅。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NzXjp0nQ2)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 实用插件
 
@@ -466,6 +481,9 @@
 [kiss-translator](https://github.com/fishjar/kiss-translator) | 一款简约且好用的双语对照翻译插件和油猴脚本，支持多种浏览器和翻译服务，提供网页双语对照翻译、输入框翻译、YouTube 字幕翻译等功能，支持自定义翻译规则、译文样式和快捷键。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Oa8MjtHIr)
 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) | 一款内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件，可帮助简单应对各种表达需求。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/O7fGfAZcH)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 资料集合
 
@@ -526,6 +544,9 @@
 [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | 一份对《给每个人的线性代数》书籍的图解笔记，通过可视化图释帮助理解矩阵分解、向量、矩阵计算和算法，提供中英日三种语言笔记。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/Op9kZlucP)
 [Gemini API Cookbook](https://github.com/google-gemini/gemini-api-cookbook) | 一份由 Google 在 GitHub 上分享的 Gemini API 学习手册，旨在帮助开发者更好地理解和使用 Gemini API，包括使用指南、快速入门教程和示例项目。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/O6EVM2ZlG)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ### 其他
 
@@ -535,6 +556,9 @@
 [academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) | 一个基于 Astro 和 Tailwind CSS 构建的精美学术项目页面模版，具有快速加载、响应式设计、易于访问和 SEO 友好等特性，支持使用 Markdown 编辑内容并显示标题、图片、公式、两列布局、代码块和视频等。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/OCBR72YtO)
 [onur.dev](https://github.com/suyalcinkaya/onur.dev) | 一个极简风格的三栏式个人主页网站，使用了 Next . js、Tailwind CSS、shadcn / ui、Contentful、Raindrop、Supabase 构建并部署在 Vercel 上，兼容移动端。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NCP6M7JBr)
 
+<div align="right">
+    <b><a href="#2024-年复盘">↥ 返回目录</a></b>
+</div>
 
 ## 声明
 [![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
