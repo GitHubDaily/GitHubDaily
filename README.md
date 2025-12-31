@@ -53,7 +53,7 @@
   - [学习教程](#学习教程)
   - [资源集合](#资源集合)
   - [实用工具](#实用工具)
-  - [浏览器插件](#浏览器插件)
+  - [实用插件](#实用插件)
   - [媒体工具](#媒体工具)
   - [开发工具](#开发工具)
   - [内容创作](#内容创作)
@@ -682,7 +682,7 @@
 [RedInk](https://github.com/HisMax/RedInk)|一款基于Nano Banana Pro的小红书图文生成器，通过输入主题和参考图批量生成6-9页风格统一的图文，支持编辑内容大纲、调整描述词及单独重生成，可通过Docker部署并配置Gemini或OpenAI兼容API，提供可视化Web界面和高并发模式。
 [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)|一款本地实时语音识别与翻译解决方案，优化流式传输延迟，支持高精度转写、说话人识别和语音活动检测，可接入多种语音引擎并整合NLLW模型实现200种语言翻译。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 学习教程
 
@@ -861,7 +861,7 @@
 [101-linux-commands](https://github.com/bobbyiliev/101-linux-commands)|一份系统掌握Linux命令行操作的开源电子书，通过101个实用命令从基础到高级循序渐进展开，每个命令配有详细说明、实际使用示例和应用场景，涵盖文件管理、文本处理等多类实用场景，并提供多种格式阅读及本地运行支持。
 [algs4](https://github.com/landerrosette/algs4)|一款将《算法（第4版）》核心内容用C++重新实现的GitHub项目。涵盖排序、查找、图论等六大模块的经典算法，每个算法配有测试客户端，支持CMake一键或单独编译，便于验证和查阅。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 资料集合
 
@@ -1002,7 +1002,7 @@
 [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)|一份技术写作资源合集，系统性整理技术写作相关工具、教程和职业发展路径，收录大厂标准风格指南，涵盖内容策划到文档发布完整工作流，包含开源文档贡献计划及辅助工具清单。
 [awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books)|一份面向工程师的LLM书籍精选清单，通过六步严格筛选流程收录高质量重实战技术图书，覆盖从零构建LLM、RAG应用开发等全方位知识体系并附带配套GitHub代码仓库链接。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 实用工具
 
@@ -1274,7 +1274,7 @@
 [SlideSCI](https://github.com/Achuan-2/SlideSCI)|一款专为科研PPT制作设计的开源插件，解决图片标题添加、批量对齐、位置复制等痛点，支持直接插入带格式的Markdown内容、代码块高亮和LaTeX公式，兼容Windows端PowerPoint和部分WPS功能。
 [Wallos](https://github.com/ellite/Wallos)|一款用于管理个人订阅服务的自托管工具，可聚合分散账单、提供仪表盘概览、发送到期提醒、支持多币种换算和文件上传管理，采用Docker一键部署且数据本地存储。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 实用插件
 
@@ -1303,7 +1303,7 @@
 [markdown-viewer-extension](https://github.com/xicilion/markdown-viewer-extension)|一款用于Markdown文档处理的开源浏览器插件，支持在浏览器预览Markdown并一键导出格式完好的Word文档。能将Mermaid流程图转为高清图片、LaTeX数学公式转为Word可编辑公式对象，代码可自动高亮且支持100+编程语言和18+专业主题。
 [internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader)|一款用于从Internet Archive或HathiTrust下载限时借阅书籍的浏览器插件，能将书籍内容下载为带文字嵌入的PDF或JPEG/PNG图片集加文本文件，支持多本书同时下载、质量选择和页码范围设置，通过逐页获取内容实时构建文件流写入磁盘，内存占用低且兼容主流浏览器。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 媒体工具
 
@@ -1401,7 +1401,7 @@
 [Constrict](https://github.com/Wartybix/Constrict)|一款用于视频压缩的本地工具，输入目标文件大小即可自动计算最佳编码参数，基于FFmpeg构建，支持批量处理、自定义帧率限制及多种编码格式选择。
 [OpenComic](https://github.com/ollm/OpenComic)|一款开源的漫画和电子书阅读器，支持JPG、PNG、WEBP等图片格式，RAR、ZIP、7Z等压缩包及PDF、EPUB文档，提供多阅读模式、双页阅读、书签续看等功能，跨平台兼容Windows、macOS和Linux系统。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 开发工具
 
@@ -1533,7 +1533,7 @@
 [lsv](https://github.com/SecretDeveloper/lsv)|一款三栏式终端文件浏览器工具，提供上级目录、当前目录显示及文件实时预览，支持键盘操作、Lua配置主题与快捷键、外部工具渲染预览，兼容多平台并支持文件操作和目录书签跳转。
 [pinme](https://github.com/glitternetwork/pinme)|一款前端应用部署工具，用一行命令即可在几秒内上线应用。支持部署AI产出的Demo、个人网站和落地页介绍，生成可永久访问的链接，搭配Gemini 3使用体验流畅。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 内容创作
 
@@ -1582,7 +1582,7 @@
 [docus](https://github.com/nuxt-content/docus)|一款基于Nuxt 4构建的开源文档框架，一条命令即可生成功能完整的文档站点，整合Nuxt Content、Nuxt UI和Tailwind CSS，支持响应式设计、深色模式、全文搜索、国际化及Markdown中使用Vue组件。
 [QOwnNotes](https://github.com/pbek/QOwnNotes)|一款重视数据自主权和隐私的开源桌面笔记应用，以纯文本Markdown文件形式本地存储笔记，支持多设备同步和层级标签管理，原生C++开发使资源占用极低，还具备笔记加密和可定制界面等功能。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 编程语言/库
 
@@ -1623,7 +1623,7 @@
 [python-markdownify](https://github.com/matthewwithanm/python-markdownify)|一款用于 HTML 到 Markdown 转化的 Python 实用工具，将复杂 HTML 字符串或文件精准还原为结构清晰的 Markdown 文本，支持高度定制化配置，可过滤特定标签、调整标题样式、处理表格与图片，允许继承类重写转换规则以应对特殊业务需求。
 [article-extractor](https://github.com/extractus/article-extractor)|一款用于提取网页核心内容的开源库，能从复杂URL中智能识别并提取标题、正文、封面图等结构化数据，支持自定义转换逻辑和多环境兼容，可配置代理和自定义Headers应对反爬策略。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 在线服务
 
@@ -1639,7 +1639,7 @@
 [NCE-Flow](https://github.com/luzhenhua/NCE-Flow)|一款面向新概念英语学习者的开源学习工具，支持句子级精准点读、三种语言显示模式切换及播放倍速调节，提供学习进度追踪和课程收藏功能，采用Apple风格界面设计并支持深浅色主题切换。
 [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)|一款开源的东京公共交通可视化应用，将东京公共交通系统转化为实时运行的3D地图，可实时追踪列车和飞机位置、切换地下模式查看地铁运行及规划路线，支持多语言界面并提供完整构建文档。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ### 其他
 
@@ -1663,7 +1663,7 @@
 [OpenEmu](https://github.com/OpenEmu/OpenEmu)|一款整合多款经典游戏机模拟器的原生应用，支持30多种经典游戏主机的模拟，可畅玩超级马里奥、魂斗罗等复古游戏，将众多模拟器功能集成于一体。
 [Nook](https://github.com/nook-browser/Nook)|一款简洁的开源浏览器，采用侧边栏设计，即使打开很多标签页也能清晰查看。体积仅8.42 MB，运行速度快且内存占用低，极简界面设计有助于专注内容浏览。
 
-[↥ 返回目录](#2025-githubdaily-年终盘点)
+[↥ 返回目录](#2025-年复盘)
 
 ## 声明
 [![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
