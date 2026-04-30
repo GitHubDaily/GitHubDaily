@@ -12,6 +12,16 @@
 
 ## 宗旨
 
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 多年以前，我曾看到 GitHub 开源项目作者、全栈工程师 TJ Holowaychunk 说过这么一句话：
 
 "I don't read books, never went to school, I just read other people's code and always wonder how things work"。
